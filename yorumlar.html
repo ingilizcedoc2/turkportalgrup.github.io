@@ -1,93 +1,30 @@
-<table border="0" cellSpacing="0" cellPadding="0" width="100%" id="table1">
+<form id="form" onsubmit="return kontrol(this)" method="post" action="yorumlar.html">
 
- <tr>
+    
+     
+     <label for="ad" class="user1"></label>
+     
+     <input type="text" name="ad" placeholder="ad-soyad girin..." required="">
+     
+     
+     
+     <label for="email" class="email"></label>
+     
+     <input type="email" name="eposta" placeholder="email adresinizi girin...">
+      
+      
+      
+     <label id="mes" for="mesaj" class="text"></label>
+        
+     <textarea name="mesaj" placeholder="mesajınızı girin..." required=""></textarea> 
+     
+    <p>1568</p>
+    
 
-  <td vAlign="top" width="98%"><center>
+     <input type="hidden" value="6" name="id">
 
-  <table border="0" id="table2">
-
-   <tr>
-
-    <td><b>Bu sayfa hakkındaki yorumlar:</b>
-
-    </td>
-
-   </tr>
-
-  </table>
-
-  <center><br>
-
-&nbsp;<form onsubmit="return wsx_ywait();" method="post" name="wsx_yuyelik" action="http://kod.websitesi.gen.tr/sayfam/sc/y.php">
-
-   <table id="table3">
-
-    <tr>
-
-     <td colSpan="20" align="left"><b>Bu sayfa hakkında yorum
-
-     ekle:</b>
-
-     </td>
-
-    </tr>
-
-    <tr>
-
-     <td align="left">İsim
-
-     </td>
-
-     <td align="left"><input size="25" name="isim">
-
-     </td>
-
-    </tr>
-
-    <tr>
-
-     <td align="left">E-mail
-
-     </td>
-
-     <td align="left">
-
-     <input size="25" name="mail" AUTOCOMPLETE="OFF">
-
-     </td>
-
-    </tr>
-
-    <tr>
-
-     <td>Mesajınız:</td>
-
-     <td>
-
-     <textarea style="WIDTH: 250px; HEIGHT: 100px" name="icerik" rows="1" cols="20"></textarea></td>
-
-    </tr>
-
-   </table>
-
-   <input value="https://turkportalgrup.github.io/yorumlar.html" type="hidden" name="page">
-
-   <input value="https://turkportalgrup.github.io" type="hidden" name="domain">
-
-   <input value="30842" type="hidden" name="id">
-
-   <input value="0" type="hidden" name="alt_id">
-
-   <input value="0" type="hidden" name="alt_id1">
-
-   <input value="index.htm" type="hidden" name="dosya_ismi">
-
-   <input value="Yorum ekle" type="submit">
-
-  </form>
-
-  </center></center></td>
-
- </tr>
-
-</table>
+    <input type="text" class="guv" name="guvenlik" placeholder="şifre gir">
+    
+    <button>Gönder</button>  
+       
+   </form>

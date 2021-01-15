@@ -111,5 +111,577 @@ http://ibb-media1.ibb.gov.tr:1935/live/161.stream/chunklist_w1545006697.m3u8
 http://ibb-media1.ibb.gov.tr:1935/live/338.stream/chunklist_w1567376213.m3u8
 #EXTINF:-1, İST. YEDİKULE (maviboran)
 http://ibb-media1.ibb.gov.tr:1935/live/273.stream/chunklist_w667660429.m3u8
-#EXTINF:-1,PANEL
-https://turkportalgrup.github.io/maviboran.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: SHOW HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172718
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW HD *" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: SHOW HD *
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172719
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL D HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172720
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD *" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL D HD *
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172721
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ATV HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172722
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD *" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ATV HD *
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172723
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: STAR HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172724
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: STAR HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172725
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT 1 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172726
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT 1 HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172727
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FOX HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172728
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX Crime" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FOX Crime
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172729
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX Life" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FOX Life
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172730
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FOX HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172731
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV 8 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172732
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD *" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV 8 HD *
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172733
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEYAZ HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172734
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A2 HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172735
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TEVE 2 HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172736
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: SHOW MAX
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172737
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL 7 FHD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172738
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL 7 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172739
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FLASH TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172740
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV EUROPA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ATV EUROPA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172741
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR EUROPA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: STAR EUROPA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172742
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TÜRK EUROPA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: SHOW TÜRK EUROPA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172743
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 EUROPA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL 7 EUROPA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172744
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ÇOCUK" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT ÇOCUK
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172745
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Action Hd" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bein Movies Action Hd
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172746
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA ÇOCUK" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: MINIKA ÇOCUK
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172747
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: MINIKA GO
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172748
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICK JR" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NICK JR
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172749
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NICKELODEON HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172750
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: DISNEY CHANNEL
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172751
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: CARTOON NETWORK
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172752
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KRAL TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172753
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KRAL POP
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172754
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: POWER HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172755
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: POWER TURK HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172756
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 TURK HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NR 1 TURK HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172757
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NR 1 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172758
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TÜRK" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: DREAM TÜRK
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172759
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: DREAM TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172760
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli 2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Sinema TV Yerli 2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172761
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart Premium HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Dizi Smart Premium HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172762
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Premiere Hd" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bein Movies Premiere Hd
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172763
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Sinema TV 2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172764
+#EXTINF:-1 tvg-id="" tvg-name="TR: Film Box HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Film Box HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172765
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART FAMILY HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: MOVIESMART FAMILY HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172766
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART FEST HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: MOVIESMART FEST HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172767
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart ACTION HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: MovieSmart ACTION HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172768
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart PLATIN HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: MovieSmart PLATIN HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172769
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart PLATIN 2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: MovieSmart PLATIN 2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172770
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORT 2 HD²" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN SPORT 2 HD²
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172771
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN SPORTS 1 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172772
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN SPORTS 2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172773
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN SPORTS 3 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172774
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN SPORTS 4 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172775
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN SPORTS HABER HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172776
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: SMART SPOR HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172777
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: SPORTS TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172778
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT SPOR HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172779
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TAY TV HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172780
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FB TV HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172781
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A SPOR HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172782
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT BELGESEL HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172783
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT BELGESEL
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172784
+#EXTINF:-1 tvg-id="" tvg-name="TR: YABAN TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: YABAN TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172785
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAL PLANET HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ANIMAL PLANET HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172786
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo People HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Nat Geo People HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172787
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Movies Action 2 Hd" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bein Movies Action 2 Hd
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172788
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN IZ HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN IZ HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172789
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN GÜRME HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BEIN GÜRME HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172790
+#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: HISTORY CHANNEL HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172791
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TLC
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172792
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: CNN TURK HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172793
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NTV HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172794
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT HABER HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172795
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TGRT HABER
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172796
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: HABER TURK HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172797
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 HABER HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: 24 HABER HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172798
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A HABER HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172799
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: 360 TV HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172800
+#EXTINF:-1 tvg-id="" tvg-name="TR: A NEWS HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A NEWS HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172801
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BLOOMBERG HT HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172802
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÜLKE TV HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ÜLKE TV HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172803
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV NET HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172804
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT MUZIK HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172805
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT AVAZ
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172806
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: DMAX HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172807
+#EXTINF:-1 tvg-id="" tvg-name="TR: VATAN TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: VATAN TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172808
+#EXTINF:-1 tvg-id="" tvg-name="TR: BENGU TURK" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BENGU TURK
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172809
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TGRT EU
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172810
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL KANAL" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ULUSAL KANAL
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172811
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: HALK TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172812
+#EXTINF:-1 tvg-id="" tvg-name="TR: OLAY TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: OLAY TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172813
+#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: CEM TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172814
+#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV KONYA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KON TV KONYA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172815
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 INT" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV8 INT
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172816
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV EM" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV EM
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172817
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKIT TV HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: AKIT TV HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172818
+#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A PARA HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172819
+#EXTINF:-1 tvg-id="" tvg-name="TR: GAZIANTEP OLAY TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: GAZIANTEP OLAY TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172820
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 33" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL 33
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172821
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 58 SIVAS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL 58 SIVAS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172822
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL AVRUPA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172823
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL V ANTALYA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: KANAL V ANTALYA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172824
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD HD PLUS" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT WORLD HD PLUS
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172825
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV A ADANA" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV A ADANA
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172826
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAN TV HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: CAN TV HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172827
+#EXTINF:-1 tvg-id="" tvg-name="TR: İz Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: İz Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172828
+#EXTINF:-1 tvg-id="" tvg-name="TR: İdman Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: İdman Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172829
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yol TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Yol TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172830
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yeşilçam 2" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Yeşilçam 2
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172831
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yeşilçam 1" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Yeşilçam 1
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172832
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yerel Tv 42" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Yerel Tv 42
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172833
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizyon 58" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Vizyon 58
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172834
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viyana Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Viyana Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172835
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Nature History" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Viasat Nature History
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172836
+#EXTINF:-1 tvg-id="" tvg-name="TR: Uzay Haber" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Uzay Haber
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172837
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVT" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TVT
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172838
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVO" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TVO
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172839
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tvnet HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tvnet HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172840
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tv8.5 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tv8.5 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172841
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tv8 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tv8 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172842
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV52 Ordu" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV52 Ordu
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172843
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV5" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV5
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172844
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV1 Kayseri" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV1 Kayseri
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172845
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV1" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV1
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172846
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV\'DEN Aydın" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV\'DEN Aydın
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172847
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TV 4
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172848
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Türk" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT Türk
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172849
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Spor HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Trt Spor HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172850
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Müzik" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT Müzik
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172851
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Haber HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Trt Haber HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172852
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT Diyanet
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172853
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT Belgesel HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172854
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT 4K
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172855
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TRT 2
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172856
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çukurova Türk Adana" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Çukurova Türk Adana
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172857
+#EXTINF:-1 tvg-id="" tvg-name="TR: TMB Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TMB Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172858
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TLC HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172859
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Türk HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tivibu Türk HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172860
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tivibu Spor 3
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172861
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tivibu Spor 1
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172862
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor  2" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tivibu Spor  2
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172863
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Action HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tivibu Action HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172864
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: TGRT Haber HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172865
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Teve2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172866
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tele 1 Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tele 1 Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172867
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tay tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tay tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172868
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star Tv Avrupa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Star Tv Avrupa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172869
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sports Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Sports Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172870
+#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Spor 1" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Smart Spor 1
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172871
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Kemal Sunal HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Kemal Sunal HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172872
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aile HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Sinema TV Aile HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172873
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Sinema TV 1001 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172874
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV  HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Sinema TV  HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172875
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sim Tv Kıbrıs" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Sim Tv Kıbrıs
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172876
+#EXTINF:-1 tvg-id="" tvg-name="TR: ShowMax" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ShowMax
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172877
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Show Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172878
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Tv Avrupa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Show Tv Avrupa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172879
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rafadan Tayfa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Rafadan Tayfa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172880
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: S Sport HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172881
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: S Sport 2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172882
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rumeli tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Rumeli tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172883
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rehber Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Rehber Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172884
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Power Turk HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172885
+#EXTINF:-1 tvg-id="" tvg-name="TR: GTV Şanlıurfa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: GTV Şanlıurfa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172886
+#EXTINF:-1 tvg-id="" tvg-name="TR: Olay Tv Bursa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Olay Tv Bursa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172887
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ntv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Ntv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172888
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NR 1
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172889
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon JR" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Nickelodeon JR
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172890
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Nickelodeon
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172891
+#EXTINF:-1 tvg-id="" tvg-name="TR: NG Wild HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NG Wild HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172892
+#EXTINF:-1 tvg-id="" tvg-name="TR: NG Turkey HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: NG Turkey HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172893
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nasa Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Nasa Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172894
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minica Go" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Minica Go
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172895
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal Fırat Elazığ" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal Fırat Elazığ
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172896
+#EXTINF:-1 tvg-id="" tvg-name="TR: Meltem Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Meltem Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172897
+#EXTINF:-1 tvg-id="" tvg-name="TR: Maximum TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Maximum TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172898
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mavi Karadeniz Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Mavi Karadeniz Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172899
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 32 Isparta" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal 32 Isparta
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172900
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lalegül Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Lalegül Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172901
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kudüs Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kudüs Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172902
+#EXTINF:-1 tvg-id="" tvg-name="TR: Krt Kultur Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Krt Kultur Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172903
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kral Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172904
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Pop HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kral Pop HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172905
+#EXTINF:-1 tvg-id="" tvg-name="TR: Koza Tv Adana" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Koza Tv Adana
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172906
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kon Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kon Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172907
+#EXTINF:-1 tvg-id="" tvg-name="TR: ON4 Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: ON4 Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172908
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kıbrıs Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kıbrıs Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172909
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal Tv 2" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kemal Sunal Tv 2
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172910
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kemal Sunal Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172911
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kayseri Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172912
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal T KKTC" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal T KKTC
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172913
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D Avrupa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal D Avrupa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172914
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal B" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal B
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172915
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal 7 Avrupa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172916
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal Urfa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal Urfa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172917
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kaçkar TV Rize" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kaçkar TV Rize
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172918
+#EXTINF:-1 tvg-id="" tvg-name="TR: Altaş Tv Ordu" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Altaş Tv Ordu
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172919
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 3 Isparta" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal 3 Isparta
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172920
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 43 Kütahya" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kanal 43 Kütahya
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172921
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kadın Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Kadın Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172922
+#EXTINF:-1 tvg-id="" tvg-name="TR: HRT Akdeniz Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: HRT Akdeniz Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172923
+#EXTINF:-1 tvg-id="" tvg-name="TR: History HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: History HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172924
+#EXTINF:-1 tvg-id="" tvg-name="TR: Habertürk HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Habertürk HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172925
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haberaks Samsun" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Haberaks Samsun
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172926
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Global HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Haber Global HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172927
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: GS Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172928
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FX Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172929
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Fox Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172930
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Fox Crime Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172931
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Yesilcam" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Yesilcam
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172932
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Yerli" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Yerli
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172933
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Animasyon HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Animasyon HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172934
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Dram HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Dram HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172935
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Bilimkurgu HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Bilimkurgu HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172936
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Komedi HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Komedi HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172937
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Korku HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Korku HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172938
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Aksiyon HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Aksiyon HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172939
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinebox Macera HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Cinebox Macera HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172940
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Bilimkurgu" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Bilimkurgu
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172941
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Kemal Sunal" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Kemal Sunal
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172942
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Horror" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Horror
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172943
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Fantastic" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Fantastic
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172944
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Family" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Family
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172945
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Drama" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Drama
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172946
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Comedy" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Comedy
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172947
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmbox Action" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Filmbox Action
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172948
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: FB Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172949
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fashion Box HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Fashion Box HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172950
+#EXTINF:-1 tvg-id="" tvg-name="TR: Es Tv Eskişehir" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Es Tv Eskişehir
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172951
+#EXTINF:-1 tvg-id="" tvg-name="TR: DRT Denizli" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: DRT Denizli
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172952
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eko Türk" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Eko Türk
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172953
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ege Türk Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Ege Türk Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172954
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dost Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Dost Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172955
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yıldız Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Yıldız Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172956
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dmax HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Dmax HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172957
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Dizi Smart HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172958
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney JR HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Disney JR HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172959
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Discovery Science HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172960
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Discovery IDX HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172961
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Discovery Channel HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172962
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci Learning" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Da Vinci Learning
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172963
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: CNN Turk HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172964
+#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Can TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172965
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bursa Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bursa Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172966
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 2" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BRT 2
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172967
+#EXTINF:-1 tvg-id="" tvg-name="TR: Brt 1 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Brt 1 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172968
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Boomerang HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172969
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz Tv HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Beyaz Tv HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172970
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Beyaz Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172971
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bereket Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bereket Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172972
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bengütürk" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bengütürk
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172973
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinSports 1" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BeinSports 1
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172974
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports - 2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bein Sports - 2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172975
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports - 3 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bein Sports - 3 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172976
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports - 4 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Bein Sports - 4 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172977
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BBC HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172978
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: BBC Earth
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172979
+#EXTINF:-1 tvg-id="" tvg-name="TR: Baby Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Baby Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172980
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çiftçi Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Çiftçi Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172981
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çay Tv Rize" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Çay Tv Rize
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172982
+#EXTINF:-1 tvg-id="" tvg-name="TR: Atv Avrupa" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Atv Avrupa
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172983
+#EXTINF:-1 tvg-id="" tvg-name="TR: Artı Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Artı Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172984
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animal Planet" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Animal Planet
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172985
+#EXTINF:-1 tvg-id="" tvg-name="TR: AL Quran AR" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: AL Quran AR
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172986
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akıllı Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Akıllı Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172987
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Akit Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172988
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ada Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Ada Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172989
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A2 Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172990
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A Spor HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172991
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Para HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A Para HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172992
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: A Haber HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172993
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 Kitchen" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: 24 Kitchen
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172994
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 Haber HD+" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: 24 Haber HD+
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172995
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 Haber HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: 24 Haber HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172996
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Komedi" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tivibu Komedi
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172997
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Action 2 HD" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Tivibu Action 2 HD
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172998
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pamukkale TV" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Pamukkale TV
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/172999
+#EXTINF:-1 tvg-id="" tvg-name="TR Kıbrıs Genç Tv" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR Kıbrıs Genç Tv
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/173000
+#EXTINF:-1 tvg-id="" tvg-name="TR: Diyalog Tv Kıbrıs" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Diyalog Tv Kıbrıs
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/173001
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney XD Cbeebies" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Disney XD Cbeebies
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/173002
+#EXTINF:-1 tvg-id="" tvg-name="TR: Chasse Peche" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Chasse Peche
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/173003
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animaux" tvg-logo="https://lh3.googleusercontent.com/proxy/08zY4kxIznR-NW-IDv_80zlMRF1efdKX3jU65S7Y7WJRCMw1ZhRn4X9VypJNAZBdzUbgzGUPyjpChZyP0Rkwz2zjsxdvsn24-dWNasTLf3PicciWZ8atfzg" group-title="Turkey",TR: Animaux
+http://istars.pro:80/mm552650252sa/Ai5n3EnInV/173004

@@ -1,26 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1, NTV SPOR 1 (maviboran)
-http://46.105.178.212:8484/ntvspor.ts
-#EXTINF:-1,NTV SPOR 2
-http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8
-#EXTINF:-1,SINEMA TV 1 (maviboran)
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b0b0f62a5120a1e.m3u8
-#EXTINF:-1,SINEMA TV 2 (maviboran)
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
 #EXTINF:-1,SINEMA TV 3 (maviboran)
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
 #EXTINF:-1,SINEMA TV 4 (maviboran)
 https://cdn.yayin.com.tr/aktiftv/aktiftv/chunklist_w531772223.m3u8
-#EXTINF:-1, SİNEMA TV 5 (maviboran)
-http://alierkut.mine.nu:8004/hls/vipdizi9.m3u8
 #EXTINF:-1,SINEMA TV 6 (maviboran)
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
 #EXTINF:-1,SINEMA YEŞİLÇAM (maviboran)
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1, KEMAL SUNAL  (maviboran)
-http://alierkut.mine.nu:8004/hls/vipdizi9.m3u8
-#EXTINF:-1,VİP EĞLENCE (maviboran)
-http://alierkut.mine.nu:8004/hls/vipdizi5.m3u8
 #EXTINF:-1,SHOW TV  (maviboran)
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,STAR TV  (maviboran)
@@ -37,26 +23,18 @@ https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
 #EXTINF:-1,KANAL 7  (maviboran)
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,TV 8 HD (maviboran)
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,ATV HD (maviboran)
 http://str01.canlitvlive.io:25461/tv/tv/319
 #EXTINF:-1,TV 8.5 HD (maviboran)
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,BEYAZ TV (maviboran)
-https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:-1,TLC TV (maviboran)
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.m3u8
 #EXTINF:-1,SPORT TV TÜRKMEN
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1,SPORTS TV TÜRK
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1,A SPOR (maviboran)
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,SUPER LIG (maviboran)
 http://46.105.178.212:8484/ntvspor.ts
-#EXTINF:-1,TRT SPOR (maviboran)
-https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/playlist.m3u8
 #EXTINF:-1,TRT SPOR 2 (maviboran)
 https://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,GS TV (maviboran)
@@ -69,20 +47,76 @@ https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b206400
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,NTV  (maviboran)
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,HALK TV  (maviboran)
-https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,A2 TV (maviboran)
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,TRT BELGESEL (maviboran)
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8
 #EXTINF:-1,FİNANS TURK (maviboran)
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-1,GÜNEYDOĞU TV (maviboran)
 https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
-#EXTINF:-1,KONYA TV (maviboran)
-https://mn-nl.mncdn.com/blutv_kontv/smil:kontv_sd.smil/playlist.m3u8
 #EXTINF:-1,İBB TV (maviboran)
 https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-0, TRT 1 (maviboran)
+http://mn-nl.mncdn.com:80/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+#EXTINF:-0, TRT 2 (maviboran)
+http://yayin2.tvizlehd.com:80/trt2.m3u8
+#EXTINF:-0, SHOW TV (maviboran)
+http://mn-nl.mncdn.com:80/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+#EXTINF:-0, KANAL D (maviboran)
+http://mn-nl.mncdn.com:80/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+#EXTINF:-0, EURO D (maviboran)
+http://yayin2.tvizlehd.com:80/eurod.m3u8
+#EXTINF:-0, KANAL 7 (maviboran)
+http://yayin2.tvizlehd.com:80/kanal7.m3u8
+#EXTINF:-0, KANAL 7 EURO (maviboran)
+http://yayin2.tvizlehd.com:80/kanal7avrupa.m3u8
+#EXTINF:-0, A2 TV (maviboran)
+http://iptvmasterlink.dyndns.org:5566/Entry/a2hd_yeni.m3u8
+#EXTINF:-0, ATV TV (maviboran)
+http://europe2.livetv.az:80/turkey/atv_turk_sd/playlist.m3u8
+#EXTINF:-0, ATV EURO (maviboran)
+http://yayin2.tvizlehd.com:80/atvavrupa.m3u8
+#EXTINF:0, STAR TV (maviboran)
+http://mn-nl.mncdn.com:80/blutv_star/smil:star_sd.smil/playlist.m3u8
+#EXTINF:0, EURO STAR (maviboran)
+http://yayin2.tvizlehd.com:80/eurostar.m3u8
+#EXTINF:-0, FOX HD (maviboran)
+http://mn-nl.mncdn.com:80/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+#EXTINF:-0, NTV HD (maviboran)
+http://mn-nl.mncdn.com:80/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
+#EXTINF:-0, TRT BELGESEL (maviboran)
+http://mn-nl.mncdn.com:80/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8
+#EXTINF:-0, TV 8 HD (maviboran)
+http://mn-nl.mncdn.com:80/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
+#EXTINF:-0, TV 360 (maviboran)
+http://yayin2.tvizlehd.com:80/360tv.m3u8
+#EXTINF:-0, KANAL B (maviboran)
+http://yayin2.tvizlehd.com:80/kanalb.m3u8
+#EXTINF:-0, TV 8.5 (maviboran)
+http://yayin2.tvizlehd.com:80/tv85.m3u8
+#EXTINF:-0, TELE 2 (maviboran)
+http://yayin2.tvizlehd.com:80/teve2.m3u8
+#EXTINF:-0, CİNE5 (maviboran)
+http://cdn-cine5.yayin.com.tr:80/cine5/cine5/chunklist_w1400599012.m3u8
+#EXTINF:-0, A SPOR (maviboran)
+http://europe2.livetv.az:80/turkey/sportr2/playlist.m3u8
+#EXTINF:-0, HABERTURK (maviboran)
+http://mn-nl.mncdn.com:80/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
+#EXTINF:-0, DMAX (maviboran)
+http://europe2.livetv.az:80/turkey/dmax/playlist.m3u8
+#EXTINF:-0, BLOOMBERG TV
+http://mn-nl.mncdn.com:80/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
+#EXTINF:-0, BEYAZ TV (maviboran)
+http://mn-nl.mncdn.com:80/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
+#EXTINF:-0, TRT COCUK (maviboran)
+http://mn-nl.mncdn.com:80/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
+#EXTINF:-0, TRT HABER (maviboran)
+http://mn-nl.mncdn.com:80/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+#EXTINF:-0, TRT MUZIK (maviboran)
+http://mn-nl.mncdn.com:80/blutv_trtmuzik/smil:trtmuzik_sd.smil/playlist.m3u8
+#EXTINF:-0, KRAL TV (maviboran)
+http://mn-nl.mncdn.com:80/blutv_trtmuzik/smil:trtmuzik_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-0, DAMAR TV (maviboran)
+http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:-1,NTV SPOR (maviboran)
+http://46.105.178.212:8484/ntvspor.ts
 #EXTINF:-1,KRAL TV (maviboran)
 https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1,KRAL POP (maviboran)
@@ -97,6 +131,46 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e198
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1,NUMBER ONE TÜRK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:1, SİNEMA TV  1 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/97.ts
+#EXTINF:0, SİNEMA TV  2 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
+#EXTINF:0,SİNEMA TV  3 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
+#EXTINF:0,SİNEMA TV  4 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/100.ts
+#EXTINF:0,SİNEMA TV  5 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/101.ts
+#EXTINF:0,SİNEMA TV  6 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/102.ts
+#EXTINF:0,SİNEMA TV  7 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/103.ts
+#EXTINF:0,SİNEMA TV  8 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/104.ts
+#EXTINF:0,SİNEMA TV  9 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
+#EXTINF:0,SİNEMA TV  10 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/106.ts
+#EXTINF:0,SİNEMA TV  11 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/107.ts
+#EXTINF:0,SİNEMA TV  12 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/108.ts
+#EXTINF:0,SİNEMA TV  13 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/109.ts
+#EXTINF:0,SİNEMA TV  14 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/110.ts
+#EXTINF:0,SİNEMA TV  15 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/111.ts
+#EXTINF:0,SİNEMA TV  16 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/112.ts
+#EXTINF:0,SİNEMA TV  17 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/113.ts
+#EXTINF:0,SİNEMA TV  18 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/114.ts
+#EXTINF:0,SİNEMA TV  19 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/115.ts
+#EXTINF:0,SİNEMA TV  20 (maviboran)
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/116.ts
 #EXTINF:-1,İST. HALİÇ KÖPRÜ (maviboran)
 http://ibb-media4.ibb.gov.tr:1935/live/148.stream/chunklist_w599656335.m3u8
 #EXTINF:-1,İST. AYVANSARAY (maviboran)
@@ -111,378 +185,3 @@ http://ibb-media1.ibb.gov.tr:1935/live/161.stream/chunklist_w1545006697.m3u8
 http://ibb-media1.ibb.gov.tr:1935/live/338.stream/chunklist_w1567376213.m3u8
 #EXTINF:-1, İST. YEDİKULE (maviboran)
 http://ibb-media1.ibb.gov.tr:1935/live/273.stream/chunklist_w667660429.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="TR: beIN sport haber HD" tvg-logo="" group-title="TURKEY",TR: beIN sport haber HD
-http://ky-tv.cc:25461/Jim25/354354/220987
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="TR: beIN sports 1 HD" tvg-logo="" group-title="TURKEY",TR: beIN sports 1 HD
-http://ky-tv.cc:25461/Jim25/354354/220988
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN sports 2 FHD" tvg-logo="" group-title="TURKEY",TR: beIN sports 2 FHD
-http://ky-tv.cc:25461/Jim25/354354/220992
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN sports 3 FHD" tvg-logo="" group-title="TURKEY",TR: beIN sports 3 FHD
-http://ky-tv.cc:25461/Jim25/354354/220995
-#EXTINF:-1 tvg-id="beINSports4.th" tvg-name="TR: beIN sports 4 FHD" tvg-logo="" group-title="TURKEY",TR: beIN sports 4 FHD
-http://ky-tv.cc:25461/Jim25/354354/220997
-#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="TR: beIN sports max 1 FHD" tvg-logo="" group-title="TURKEY",TR: beIN sports max 1 FHD
-http://ky-tv.cc:25461/Jim25/354354/221000
-#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="TR: beIN sports max 2 FHD" tvg-logo="" group-title="TURKEY",TR: beIN sports max 2 FHD
-http://ky-tv.cc:25461/Jim25/354354/221003
-#EXTINF:-1 tvg-id="" tvg-name="TR: s-sport HDi" tvg-logo="" group-title="TURKEY",TR: s-sport HDi
-http://ky-tv.cc:25461/Jim25/354354/221004
-#EXTINF:-1 tvg-id="" tvg-name="TR: s-sport 1 FHD" tvg-logo="" group-title="TURKEY",TR: s-sport 1 FHD
-http://ky-tv.cc:25461/Jim25/354354/221005
-#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="TR: tivibu spor 1 HD" tvg-logo="" group-title="TURKEY",TR: tivibu spor 1 HD
-http://ky-tv.cc:25461/Jim25/354354/221006
-#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="TR: tivibuspor 1 FHD" tvg-logo="" group-title="TURKEY",TR: tivibuspor 1 FHD
-http://ky-tv.cc:25461/Jim25/354354/221007
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="TR: tivibuspor-2 HDi" tvg-logo="" group-title="TURKEY",TR: tivibuspor-2 HDi
-http://ky-tv.cc:25461/Jim25/354354/221008
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="TR: tivibuspor 2 FHD" tvg-logo="" group-title="TURKEY",TR: tivibuspor 2 FHD
-http://ky-tv.cc:25461/Jim25/354354/221009
-#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TR: tivibuspor-3 HDi" tvg-logo="" group-title="TURKEY",TR: tivibuspor-3 HDi
-http://ky-tv.cc:25461/Jim25/354354/221010
-#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TR: tivibuspor 3 FHD" tvg-logo="" group-title="TURKEY",TR: tivibuspor 3 FHD
-http://ky-tv.cc:25461/Jim25/354354/221011
-#EXTINF:-1 tvg-id="Sport1HD.il" tvg-name="TR: spor smart FHD" tvg-logo="" group-title="TURKEY",TR: spor smart FHD
-http://ky-tv.cc:25461/Jim25/354354/221012
-#EXTINF:-1 tvg-id="NBATV.th" tvg-name="TR: nba tv HDi" tvg-logo="" group-title="TURKEY",TR: nba tv HDi
-http://ky-tv.cc:25461/Jim25/354354/221014
-#EXTINF:-1 tvg-id="NBATV.th" tvg-name="TR: nba tv FHD" tvg-logo="" group-title="TURKEY",TR: nba tv FHD
-http://ky-tv.cc:25461/Jim25/354354/221015
-#EXTINF:-1 tvg-id="IdmanTV.az" tvg-name="TR: idman tv HDi" tvg-logo="" group-title="TURKEY",TR: idman tv HDi
-http://ky-tv.cc:25461/Jim25/354354/221016
-#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="TR: eurosport1 HD" tvg-logo="" group-title="TURKEY",TR: eurosport1 HD
-http://ky-tv.cc:25461/Jim25/354354/221017
-#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="TR: eurosport2 HD" tvg-logo="" group-title="TURKEY",TR: eurosport2 HD
-http://ky-tv.cc:25461/Jim25/354354/221018
-#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="TR: gstv HD" tvg-logo="" group-title="TURKEY",TR: gstv HD
-http://ky-tv.cc:25461/Jim25/354354/221019
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="TR: fbtv HD" tvg-logo="" group-title="TURKEY",TR: fbtv HD
-http://ky-tv.cc:25461/Jim25/354354/221020
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="TR: sportstv HD" tvg-logo="" group-title="TURKEY",TR: sportstv HD
-http://ky-tv.cc:25461/Jim25/354354/221021
-#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: tjk tv HD" tvg-logo="" group-title="TURKEY",TR: tjk tv HD
-http://ky-tv.cc:25461/Jim25/354354/221022
-#EXTINF:-1 tvg-id="" tvg-name="TR: aspor HD" tvg-logo="" group-title="TURKEY",TR: aspor HD
-http://ky-tv.cc:25461/Jim25/354354/221023
-#EXTINF:-1 tvg-id="" tvg-name="TR: aspor FHD" tvg-logo="" group-title="TURKEY",TR: aspor FHD
-http://ky-tv.cc:25461/Jim25/354354/221024
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR: trt spor HD" tvg-logo="" group-title="TURKEY",TR: trt spor HD
-http://ky-tv.cc:25461/Jim25/354354/221025
-#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TR: trt spor 2 HD" tvg-logo="" group-title="TURKEY",TR: trt spor 2 HD
-http://ky-tv.cc:25461/Jim25/354354/221026
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR: trt spor FHD" tvg-logo="" group-title="TURKEY",TR: trt spor FHD
-http://ky-tv.cc:25461/Jim25/354354/221027
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR: trt 4k" tvg-logo="" group-title="TURKEY",TR: trt 4k
-http://ky-tv.cc:25461/Jim25/354354/221028
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: trt1 HD" tvg-logo="" group-title="TURKEY",TR: trt1 HD
-http://ky-tv.cc:25461/Jim25/354354/221029
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: trt 1 HDi" tvg-logo="" group-title="TURKEY",TR: trt 1 HDi
-http://ky-tv.cc:25461/Jim25/354354/221030
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: trt 2 HD" tvg-logo="" group-title="TURKEY",TR: trt 2 HD
-http://ky-tv.cc:25461/Jim25/354354/221031
-#EXTINF:-1 tvg-id="" tvg-name="TR: trt 2 FHD" tvg-logo="" group-title="TURKEY",TR: trt 2 FHD
-http://ky-tv.cc:25461/Jim25/354354/221032
-#EXTINF:-1 tvg-id="ATV.hu" tvg-name="TR: atv HDi" tvg-logo="" group-title="TURKEY",TR: atv HDi
-http://ky-tv.cc:25461/Jim25/354354/221033
-#EXTINF:-1 tvg-id="ATV.hu" tvg-name="TR: atv FHD" tvg-logo="" group-title="TURKEY",TR: atv FHD
-http://ky-tv.cc:25461/Jim25/354354/221034
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: tr- atv eu" tvg-logo="" group-title="TURKEY",TR: tr- atv eu
-http://ky-tv.cc:25461/Jim25/354354/221035
-#EXTINF:-1 tvg-id="FoxThai.th" tvg-name="TR: foxtv HDi" tvg-logo="" group-title="TURKEY",TR: foxtv HDi
-http://ky-tv.cc:25461/Jim25/354354/221036
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR: fox tv FHD" tvg-logo="" group-title="TURKEY",TR: fox tv FHD
-http://ky-tv.cc:25461/Jim25/354354/221037
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR: showtv HDxi" tvg-logo="" group-title="TURKEY",TR: showtv HDxi
-http://ky-tv.cc:25461/Jim25/354354/221038
-#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="TR: tr- show max" tvg-logo="" group-title="TURKEY",TR: tr- show max
-http://ky-tv.cc:25461/Jim25/354354/221039
-#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="TR: startv HDi" tvg-logo="" group-title="TURKEY",TR: startv HDi
-http://ky-tv.cc:25461/Jim25/354354/221040
-#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="TR: star tv FHD" tvg-logo="" group-title="TURKEY",TR: star tv FHD
-http://ky-tv.cc:25461/Jim25/354354/221041
-#EXTINF:-1 tvg-id="" tvg-name="TR: tr- star eu" tvg-logo="" group-title="TURKEY",TR: tr- star eu
-http://ky-tv.cc:25461/Jim25/354354/221042
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: kanal d HDi" tvg-logo="" group-title="TURKEY",TR: kanal d HDi
-http://ky-tv.cc:25461/Jim25/354354/221043
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: tr- kanal d eu" tvg-logo="" group-title="TURKEY",TR: tr- kanal d eu
-http://ky-tv.cc:25461/Jim25/354354/221045
-#EXTINF:-1 tvg-id="" tvg-name="TR: tv8 HDi" tvg-logo="" group-title="TURKEY",TR: tv8 HDi
-http://ky-tv.cc:25461/Jim25/354354/221046
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: tv 8 HD" tvg-logo="" group-title="TURKEY",TR: tv 8 HD
-http://ky-tv.cc:25461/Jim25/354354/221047
-#EXTINF:-1 tvg-id="" tvg-name="TR: tv8.5 HDi" tvg-logo="" group-title="TURKEY",TR: tv8.5 HDi
-http://ky-tv.cc:25461/Jim25/354354/221048
-#EXTINF:-1 tvg-id="" tvg-name="TR: tv 8.5 FHD" tvg-logo="" group-title="TURKEY",TR: tv 8.5 FHD
-http://ky-tv.cc:25461/Jim25/354354/221049
-#EXTINF:-1 tvg-id="" tvg-name="TR: a2 HDi" tvg-logo="" group-title="TURKEY",TR: a2 HDi
-http://ky-tv.cc:25461/Jim25/354354/221050
-#EXTINF:-1 tvg-id="" tvg-name="TR: a2 FHD" tvg-logo="" group-title="TURKEY",TR: a2 FHD
-http://ky-tv.cc:25461/Jim25/354354/221051
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR: beyaztv HDi" tvg-logo="" group-title="TURKEY",TR: beyaztv HDi
-http://ky-tv.cc:25461/Jim25/354354/221052
-#EXTINF:-1 tvg-id="" tvg-name="TR: kanal7 HDi" tvg-logo="" group-title="TURKEY",TR: kanal7 HDi
-http://ky-tv.cc:25461/Jim25/354354/221054
-#EXTINF:-1 tvg-id="" tvg-name="TR: kanal 7 FHD" tvg-logo="" group-title="TURKEY",TR: kanal 7 FHD
-http://ky-tv.cc:25461/Jim25/354354/221055
-#EXTINF:-1 tvg-id="24Kitchen.tr" tvg-name="TR: 24 kitchen HD" tvg-logo="" group-title="TURKEY",TR: 24 kitchen HD
-http://ky-tv.cc:25461/Jim25/354354/221056
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN gurme HDi" tvg-logo="" group-title="TURKEY",TR: beIN gurme HDi
-http://ky-tv.cc:25461/Jim25/354354/221057
-#EXTINF:-1 tvg-id="" tvg-name="TR: viasat history HDi" tvg-logo="" group-title="TURKEY",TR: viasat history HDi
-http://ky-tv.cc:25461/Jim25/354354/221058
-#EXTINF:-1 tvg-id="FXHD.qa" tvg-name="TR: fx HDi" tvg-logo="" group-title="TURKEY",TR: fx HDi
-http://ky-tv.cc:25461/Jim25/354354/221059
-#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="TR: yaban tv HDi" tvg-logo="" group-title="TURKEY",TR: yaban tv HDi
-http://ky-tv.cc:25461/Jim25/354354/221060
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: trt belgesel HDi" tvg-logo="" group-title="TURKEY",TR: trt belgesel HDi
-http://ky-tv.cc:25461/Jim25/354354/221061
-#EXTINF:-1 tvg-id="" tvg-name="TR: nat geo wild HDi" tvg-logo="" group-title="TURKEY",TR: nat geo wild HDi
-http://ky-tv.cc:25461/Jim25/354354/221062
-#EXTINF:-1 tvg-id="NatGeo.tr" tvg-name="TR: national geographic HDi" tvg-logo="" group-title="TURKEY",TR: national geographic HDi
-http://ky-tv.cc:25461/Jim25/354354/221063
-#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="TR: national geo people HDi" tvg-logo="" group-title="TURKEY",TR: national geo people HDi
-http://ky-tv.cc:25461/Jim25/354354/221064
-#EXTINF:-1 tvg-id="" tvg-name="TR: discowery channel HDi" tvg-logo="" group-title="TURKEY",TR: discowery channel HDi
-http://ky-tv.cc:25461/Jim25/354354/221065
-#EXTINF:-1 tvg-id="" tvg-name="TR: discowery science HDi" tvg-logo="" group-title="TURKEY",TR: discowery science HDi
-http://ky-tv.cc:25461/Jim25/354354/221066
-#EXTINF:-1 tvg-id="" tvg-name="TR: discowery idx HDi" tvg-logo="" group-title="TURKEY",TR: discowery idx HDi
-http://ky-tv.cc:25461/Jim25/354354/221067
-#EXTINF:-1 tvg-id="" tvg-name="TR: bbc earth HDi" tvg-logo="" group-title="TURKEY",TR: bbc earth HDi
-http://ky-tv.cc:25461/Jim25/354354/221068
-#EXTINF:-1 tvg-id="HistoryHD.il" tvg-name="TR: history HDi" tvg-logo="" group-title="TURKEY",TR: history HDi
-http://ky-tv.cc:25461/Jim25/354354/221069
-#EXTINF:-1 tvg-id="" tvg-name="TR: animal planet HDi" tvg-logo="" group-title="TURKEY",TR: animal planet HDi
-http://ky-tv.cc:25461/Jim25/354354/221070
-#EXTINF:-1 tvg-id="" tvg-name="TR: iztv HDi" tvg-logo="" group-title="TURKEY",TR: iztv HDi
-http://ky-tv.cc:25461/Jim25/354354/221071
-#EXTINF:-1 tvg-id="" tvg-name="TR: dmax HDi" tvg-logo="" group-title="TURKEY",TR: dmax HDi
-http://ky-tv.cc:25461/Jim25/354354/221072
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="TR: dmax FHD" tvg-logo="" group-title="TURKEY",TR: dmax FHD
-http://ky-tv.cc:25461/Jim25/354354/221073
-#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="TR: skyturk360 HDi" tvg-logo="" group-title="TURKEY",TR: skyturk360 HDi
-http://ky-tv.cc:25461/Jim25/354354/221074
-#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="TR: skyturk360 FHD" tvg-logo="" group-title="TURKEY",TR: skyturk360 FHD
-http://ky-tv.cc:25461/Jim25/354354/221075
-#EXTINF:-1 tvg-id="" tvg-name="TR: teve 2 FHD" tvg-logo="" group-title="TURKEY",TR: teve 2 FHD
-http://ky-tv.cc:25461/Jim25/354354/221077
-#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="TR: tele 1 HDi" tvg-logo="" group-title="TURKEY",TR: tele 1 HDi
-http://ky-tv.cc:25461/Jim25/354354/221078
-#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TR: tv100 HDi" tvg-logo="" group-title="TURKEY",TR: tv100 HDi
-http://ky-tv.cc:25461/Jim25/354354/221079
-#EXTINF:-1 tvg-id="" tvg-name="TR: tlc HDi" tvg-logo="" group-title="TURKEY",TR: tlc HDi
-http://ky-tv.cc:25461/Jim25/354354/221080
-#EXTINF:-1 tvg-id="" tvg-name="TR: tvnet HDi" tvg-logo="" group-title="TURKEY",TR: tvnet HDi
-http://ky-tv.cc:25461/Jim25/354354/221081
-#EXTINF:-1 tvg-id="" tvg-name="TR: ulketv HDi" tvg-logo="" group-title="TURKEY",TR: ulketv HDi
-http://ky-tv.cc:25461/Jim25/354354/221082
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="TR: ülke tv FHD" tvg-logo="" group-title="TURKEY",TR: ülke tv FHD
-http://ky-tv.cc:25461/Jim25/354354/221083
-#EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="TR: krt tv HDi" tvg-logo="" group-title="TURKEY",TR: krt tv HDi
-http://ky-tv.cc:25461/Jim25/354354/221084
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TR: trt turk HDi" tvg-logo="" group-title="TURKEY",TR: trt turk HDi
-http://ky-tv.cc:25461/Jim25/354354/221085
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TR: trt haber FHD" tvg-logo="" group-title="TURKEY",TR: trt haber FHD
-http://ky-tv.cc:25461/Jim25/354354/221087
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="TR: ekoturk HDi" tvg-logo="" group-title="TURKEY",TR: ekoturk HDi
-http://ky-tv.cc:25461/Jim25/354354/221088
-#EXTINF:-1 tvg-id="" tvg-name="TR: bloomberght HDi" tvg-logo="" group-title="TURKEY",TR: bloomberght HDi
-http://ky-tv.cc:25461/Jim25/354354/221089
-#EXTINF:-1 tvg-id="" tvg-name="TR: bloomberg ht FHD" tvg-logo="" group-title="TURKEY",TR: bloomberg ht FHD
-http://ky-tv.cc:25461/Jim25/354354/221090
-#EXTINF:-1 tvg-id="" tvg-name="TR: a para HDi" tvg-logo="" group-title="TURKEY",TR: a para HDi
-http://ky-tv.cc:25461/Jim25/354354/221091
-#EXTINF:-1 tvg-id="" tvg-name="TR: apara FHD" tvg-logo="" group-title="TURKEY",TR: apara FHD
-http://ky-tv.cc:25461/Jim25/354354/221092
-#EXTINF:-1 tvg-id="" tvg-name="TR: a haber HDi" tvg-logo="" group-title="TURKEY",TR: a haber HDi
-http://ky-tv.cc:25461/Jim25/354354/221093
-#EXTINF:-1 tvg-id="" tvg-name="TR: a haber FHD" tvg-logo="" group-title="TURKEY",TR: a haber FHD
-http://ky-tv.cc:25461/Jim25/354354/221094
-#EXTINF:-1 tvg-id="" tvg-name="TR: a news FHD" tvg-logo="" group-title="TURKEY",TR: a news FHD
-http://ky-tv.cc:25461/Jim25/354354/221095
-#EXTINF:-1 tvg-id="" tvg-name="TR: global haber HD" tvg-logo="" group-title="TURKEY",TR: global haber HD
-http://ky-tv.cc:25461/Jim25/354354/221096
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="TR: haber global FHD" tvg-logo="" group-title="TURKEY",TR: haber global FHD
-http://ky-tv.cc:25461/Jim25/354354/221097
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="TR: cnn turk HDi" tvg-logo="" group-title="TURKEY",TR: cnn turk HDi
-http://ky-tv.cc:25461/Jim25/354354/221098
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="TR: cnn turk FHD" tvg-logo="" group-title="TURKEY",TR: cnn turk FHD
-http://ky-tv.cc:25461/Jim25/354354/221099
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="TR: haberturk HDi" tvg-logo="" group-title="TURKEY",TR: haberturk HDi
-http://ky-tv.cc:25461/Jim25/354354/221100
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="TR: haber turk FHD" tvg-logo="" group-title="TURKEY",TR: haber turk FHD
-http://ky-tv.cc:25461/Jim25/354354/221101
-#EXTINF:-1 tvg-id="" tvg-name="TR: ntv haber HDi" tvg-logo="" group-title="TURKEY",TR: ntv haber HDi
-http://ky-tv.cc:25461/Jim25/354354/221102
-#EXTINF:-1 tvg-id="" tvg-name="TR: ntv haber FHD" tvg-logo="" group-title="TURKEY",TR: ntv haber FHD
-http://ky-tv.cc:25461/Jim25/354354/221103
-#EXTINF:-1 tvg-id="" tvg-name="TR: tgrt haber HDi" tvg-logo="" group-title="TURKEY",TR: tgrt haber HDi
-http://ky-tv.cc:25461/Jim25/354354/221104
-#EXTINF:-1 tvg-id="" tvg-name="TR: tgrt haber FHD" tvg-logo="" group-title="TURKEY",TR: tgrt haber FHD
-http://ky-tv.cc:25461/Jim25/354354/221105
-#EXTINF:-1 tvg-id="Kanal4.dk" tvg-name="TR: kanal 24 HDi" tvg-logo="" group-title="TURKEY",TR: kanal 24 HDi
-http://ky-tv.cc:25461/Jim25/354354/221106
-#EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-name="TR: smart cocuk HD" tvg-logo="" group-title="TURKEY",TR: smart cocuk HD
-http://ky-tv.cc:25461/Jim25/354354/221107
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TR: trt çocuk HD" tvg-logo="" group-title="TURKEY",TR: trt çocuk HD
-http://ky-tv.cc:25461/Jim25/354354/221108
-#EXTINF:-1 tvg-id="" tvg-name="TR: nickelodeon HD" tvg-logo="" group-title="TURKEY",TR: nickelodeon HD
-http://ky-tv.cc:25461/Jim25/354354/221109
-#EXTINF:-1 tvg-id="" tvg-name="TR: nick jr HD" tvg-logo="" group-title="TURKEY",TR: nick jr HD
-http://ky-tv.cc:25461/Jim25/354354/221110
-#EXTINF:-1 tvg-id="DisneyChannel.tr" tvg-name="TR: disney channel HD" tvg-logo="" group-title="TURKEY",TR: disney channel HD
-http://ky-tv.cc:25461/Jim25/354354/221111
-#EXTINF:-1 tvg-id="" tvg-name="TR: disney jr HD" tvg-logo="" group-title="TURKEY",TR: disney jr HD
-http://ky-tv.cc:25461/Jim25/354354/221112
-#EXTINF:-1 tvg-id="" tvg-name="TR: disney xd HD" tvg-logo="" group-title="TURKEY",TR: disney xd HD
-http://ky-tv.cc:25461/Jim25/354354/221113
-#EXTINF:-1 tvg-id="" tvg-name="TR: cbeebies HD" tvg-logo="" group-title="TURKEY",TR: cbeebies HD
-http://ky-tv.cc:25461/Jim25/354354/221114
-#EXTINF:-1 tvg-id="DaVinciKids.tr" tvg-name="TR: da vinci kids HD" tvg-logo="" group-title="TURKEY",TR: da vinci kids HD
-http://ky-tv.cc:25461/Jim25/354354/221115
-#EXTINF:-1 tvg-id="BabyTV.tr" tvg-name="TR: baby tv HD" tvg-logo="" group-title="TURKEY",TR: baby tv HD
-http://ky-tv.cc:25461/Jim25/354354/221116
-#EXTINF:-1 tvg-id="" tvg-name="TR: boomerang HD" tvg-logo="" group-title="TURKEY",TR: boomerang HD
-http://ky-tv.cc:25461/Jim25/354354/221117
-#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="TR: cartoon network HD" tvg-logo="" group-title="TURKEY",TR: cartoon network HD
-http://ky-tv.cc:25461/Jim25/354354/221118
-#EXTINF:-1 tvg-id="minikaGO.tr" tvg-name="TR: minica go HD" tvg-logo="" group-title="TURKEY",TR: minica go HD
-http://ky-tv.cc:25461/Jim25/354354/221119
-#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="TR: minika cocuk HD" tvg-logo="" group-title="TURKEY",TR: minika cocuk HD
-http://ky-tv.cc:25461/Jim25/354354/221120
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TR: trt muzik HDi" tvg-logo="" group-title="TURKEY",TR: trt muzik HDi
-http://ky-tv.cc:25461/Jim25/354354/221121
-#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="TR: power tv HDi" tvg-logo="" group-title="TURKEY",TR: power tv HDi
-http://ky-tv.cc:25461/Jim25/354354/221122
-#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="TR: power turk HDi" tvg-logo="" group-title="TURKEY",TR: power turk HDi
-http://ky-tv.cc:25461/Jim25/354354/221123
-#EXTINF:-1 tvg-id="" tvg-name="TR: nr1 HDi" tvg-logo="" group-title="TURKEY",TR: nr1 HDi
-http://ky-tv.cc:25461/Jim25/354354/221124
-#EXTINF:-1 tvg-id="" tvg-name="TR: nr1 turk HDi" tvg-logo="" group-title="TURKEY",TR: nr1 turk HDi
-http://ky-tv.cc:25461/Jim25/354354/221125
-#EXTINF:-1 tvg-id="DreamTV.tr" tvg-name="TR: dream tv HDi" tvg-logo="" group-title="TURKEY",TR: dream tv HDi
-http://ky-tv.cc:25461/Jim25/354354/221126
-#EXTINF:-1 tvg-id="" tvg-name="TR: dream turk HDi" tvg-logo="" group-title="TURKEY",TR: dream turk HDi
-http://ky-tv.cc:25461/Jim25/354354/221127
-#EXTINF:-1 tvg-id="KreatorTv.hr" tvg-name="TR: kral tv HDi" tvg-logo="" group-title="TURKEY",TR: kral tv HDi
-http://ky-tv.cc:25461/Jim25/354354/221128
-#EXTINF:-1 tvg-id="" tvg-name="TR: halk tv HD" tvg-logo="" group-title="TURKEY",TR: halk tv HD
-http://ky-tv.cc:25461/Jim25/354354/221129
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TR: tr- halk tv sd" tvg-logo="" group-title="TURKEY",TR: tr- halk tv sd
-http://ky-tv.cc:25461/Jim25/354354/221130
-#EXTINF:-1 tvg-id="CETV.sk" tvg-name="TR:  cem tv" tvg-logo="" group-title="TURKEY",TR:  cem tv
-http://ky-tv.cc:25461/Jim25/354354/221131
-#EXTINF:-1 tvg-id="" tvg-name="TR:  yol tv HD" tvg-logo="" group-title="TURKEY",TR:  yol tv HD
-http://ky-tv.cc:25461/Jim25/354354/221132
-#EXTINF:-1 tvg-id="" tvg-name="TR:  can tv HD" tvg-logo="" group-title="TURKEY",TR:  can tv HD
-http://ky-tv.cc:25461/Jim25/354354/221133
-#EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="TR:  akilli tv" tvg-logo="" group-title="TURKEY",TR:  akilli tv
-http://ky-tv.cc:25461/Jim25/354354/221134
-#EXTINF:-1 tvg-id="" tvg-name="TR:  egeturk tv" tvg-logo="" group-title="TURKEY",TR:  egeturk tv
-http://ky-tv.cc:25461/Jim25/354354/221135
-#EXTINF:-1 tvg-id="" tvg-name="TR:  kanal avrupa" tvg-logo="" group-title="TURKEY",TR:  kanal avrupa
-http://ky-tv.cc:25461/Jim25/354354/221136
-#EXTINF:-1 tvg-id="" tvg-name="TR:  mavi karadeniz" tvg-logo="" group-title="TURKEY",TR:  mavi karadeniz
-http://ky-tv.cc:25461/Jim25/354354/221137
-#EXTINF:-1 tvg-id="" tvg-name="TR:  koy tv" tvg-logo="" group-title="TURKEY",TR:  koy tv
-http://ky-tv.cc:25461/Jim25/354354/221138
-#EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="TR:  akit tv HD plus" tvg-logo="" group-title="TURKEY",TR:  akit tv HD plus
-http://ky-tv.cc:25461/Jim25/354354/221139
-#EXTINF:-1 tvg-id="ArteTV.kr" tvg-name="TR:  arti tv" tvg-logo="" group-title="TURKEY",TR:  arti tv
-http://ky-tv.cc:25461/Jim25/354354/221140
-#EXTINF:-1 tvg-id="BeykentTV.tr" tvg-name="TR:  bereket tv" tvg-logo="" group-title="TURKEY",TR:  bereket tv
-http://ky-tv.cc:25461/Jim25/354354/221141
-#EXTINF:-1 tvg-id="" tvg-name="TR:  tek rumeli tv" tvg-logo="" group-title="TURKEY",TR:  tek rumeli tv
-http://ky-tv.cc:25461/Jim25/354354/221142
-#EXTINF:-1 tvg-id="BuzzrTV.us" tvg-name="TR:  bursa tv" tvg-logo="" group-title="TURKEY",TR:  bursa tv
-http://ky-tv.cc:25461/Jim25/354354/221143
-#EXTINF:-1 tvg-id="" tvg-name="TR:  cay tv rize" tvg-logo="" group-title="TURKEY",TR:  cay tv rize
-http://ky-tv.cc:25461/Jim25/354354/221144
-#EXTINF:-1 tvg-id="" tvg-name="TR:  koza tv adana" tvg-logo="" group-title="TURKEY",TR:  koza tv adana
-http://ky-tv.cc:25461/Jim25/354354/221145
-#EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-name="TR:  trt arabic HD" tvg-logo="" group-title="TURKEY",TR:  trt arabic HD
-http://ky-tv.cc:25461/Jim25/354354/221146
-#EXTINF:-1 tvg-id="TRTDiyanet.tr" tvg-name="TR:  diyanet tv HD plus" tvg-logo="" group-title="TURKEY",TR:  diyanet tv HD plus
-http://ky-tv.cc:25461/Jim25/354354/221147
-#EXTINF:-1 tvg-id="KanalB.tr" tvg-name="TR:  kabe tv HD" tvg-logo="" group-title="TURKEY",TR:  kabe tv HD
-http://ky-tv.cc:25461/Jim25/354354/221148
-#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="TR:  semerkand tv HD" tvg-logo="" group-title="TURKEY",TR:  semerkand tv HD
-http://ky-tv.cc:25461/Jim25/354354/221149
-#EXTINF:-1 tvg-id="Medi1TV.ma" tvg-name="TR:  medine tv" tvg-logo="" group-title="TURKEY",TR:  medine tv
-http://ky-tv.cc:25461/Jim25/354354/221150
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="TR:  rehber tv" tvg-logo="" group-title="TURKEY",TR:  rehber tv
-http://ky-tv.cc:25461/Jim25/354354/221151
-#EXTINF:-1 tvg-id="" tvg-name="TR:  dost tv" tvg-logo="" group-title="TURKEY",TR:  dost tv
-http://ky-tv.cc:25461/Jim25/354354/221152
-#EXTINF:-1 tvg-id="tvt.tr" tvg-name="TR:  tvt tv" tvg-logo="" group-title="TURKEY",TR:  tvt tv
-http://ky-tv.cc:25461/Jim25/354354/221153
-#EXTINF:-1 tvg-id="" tvg-name="TR:  es tv eskisehir" tvg-logo="" group-title="TURKEY",TR:  es tv eskisehir
-http://ky-tv.cc:25461/Jim25/354354/221154
-#EXTINF:-1 tvg-id="HillsongTV.au" tvg-name="TR:  hilal tv" tvg-logo="" group-title="TURKEY",TR:  hilal tv
-http://ky-tv.cc:25461/Jim25/354354/221155
-#EXTINF:-1 tvg-id="Lale.ua" tvg-name="TR:  lalegul tv" tvg-logo="" group-title="TURKEY",TR:  lalegul tv
-http://ky-tv.cc:25461/Jim25/354354/221156
-#EXTINF:-1 tvg-id="" tvg-name="TR:  al quran tv" tvg-logo="" group-title="TURKEY",TR:  al quran tv
-http://ky-tv.cc:25461/Jim25/354354/221157
-#EXTINF:-1 tvg-id="" tvg-name="TR: berat tv" tvg-logo="" group-title="TURKEY",TR: berat tv
-http://ky-tv.cc:25461/Jim25/354354/221158
-#EXTINF:-1 tvg-id="DIATV.kr" tvg-name="TR:  diyar tv" tvg-logo="" group-title="TURKEY",TR:  diyar tv
-http://ky-tv.cc:25461/Jim25/354354/221159
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="TR:  beIN box office 1 FHD" tvg-logo="" group-title="TURKEY",TR:  beIN box office 1 FHD
-http://ky-tv.cc:25461/Jim25/354354/221161
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="TR:  beIN box office 2 FHD" tvg-logo="" group-title="TURKEY",TR:  beIN box office 2 FHD
-http://ky-tv.cc:25461/Jim25/354354/221162
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="TR:  beIN box office 3 FHD" tvg-logo="" group-title="TURKEY",TR:  beIN box office 3 FHD
-http://ky-tv.cc:25461/Jim25/354354/221163
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="TR:  beIN box office turk HD" tvg-logo="" group-title="TURKEY",TR:  beIN box office turk HD
-http://ky-tv.cc:25461/Jim25/354354/221164
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR:  beIN gurme HD" tvg-logo="" group-title="TURKEY",TR:  beIN gurme HD
-http://ky-tv.cc:25461/Jim25/354354/221165
-#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="TR:  beIN iz HD" tvg-logo="" group-title="TURKEY",TR:  beIN iz HD
-http://ky-tv.cc:25461/Jim25/354354/221166
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="TR:  beIN movie fist HD" tvg-logo="" group-title="TURKEY",TR:  beIN movie fist HD
-http://ky-tv.cc:25461/Jim25/354354/221167
-#EXTINF:-1 tvg-id="" tvg-name="TR:  beIN movie gold HD" tvg-logo="" group-title="TURKEY",TR:  beIN movie gold HD
-http://ky-tv.cc:25461/Jim25/354354/221168
-#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="TR:  beIN movie platin 2 HD*" tvg-logo="" group-title="TURKEY",TR:  beIN movie platin 2 HD*
-http://ky-tv.cc:25461/Jim25/354354/221169
-#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="TR:  beIN movie platin HD*" tvg-logo="" group-title="TURKEY",TR:  beIN movie platin HD*
-http://ky-tv.cc:25461/Jim25/354354/221170
-#EXTINF:-1 tvg-id="" tvg-name="TR:  beIN movie premium 2 HD" tvg-logo="" group-title="TURKEY",TR:  beIN movie premium 2 HD
-http://ky-tv.cc:25461/Jim25/354354/221171
-#EXTINF:-1 tvg-id="beINMoviesPremier.tr" tvg-name="TR:  beIN movie premium HD" tvg-logo="" group-title="TURKEY",TR:  beIN movie premium HD
-http://ky-tv.cc:25461/Jim25/354354/221172
-#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="TR:  beIN movies action 2 FHD" tvg-logo="" group-title="TURKEY",TR:  beIN movies action 2 FHD
-http://ky-tv.cc:25461/Jim25/354354/221173
-#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="TR:  beIN movies action FHD" tvg-logo="" group-title="TURKEY",TR:  beIN movies action FHD
-http://ky-tv.cc:25461/Jim25/354354/221174
-#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="TR:  beIN movies family HD" tvg-logo="" group-title="TURKEY",TR:  beIN movies family HD
-http://ky-tv.cc:25461/Jim25/354354/221175
-#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="TR:  beIN movies festival HD" tvg-logo="" group-title="TURKEY",TR:  beIN movies festival HD
-http://ky-tv.cc:25461/Jim25/354354/221176
-#EXTINF:-1 tvg-id="" tvg-name="TR:  beIN movies iz tv" tvg-logo="" group-title="TURKEY",TR:  beIN movies iz tv
-http://ky-tv.cc:25461/Jim25/354354/221177
-#EXTINF:-1 tvg-id="beINMoviesPremier.tr" tvg-name="TR:  beIN movies premiere 1" tvg-logo="" group-title="TURKEY",TR:  beIN movies premiere 1
-http://ky-tv.cc:25461/Jim25/354354/221178
-#EXTINF:-1 tvg-id="beINMoviesPremier.tr" tvg-name="TR:  beIN movies premiere 2" tvg-logo="" group-title="TURKEY",TR:  beIN movies premiere 2
-http://ky-tv.cc:25461/Jim25/354354/221179
-#EXTINF:-1 tvg-id="" tvg-name="TR:  beIN movies premiere FHD" tvg-logo="" group-title="TURKEY",TR:  beIN movies premiere FHD
-http://ky-tv.cc:25461/Jim25/354354/221180
-#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="TR:  beIN movies stars FHD" tvg-logo="" group-title="TURKEY",TR:  beIN movies stars FHD
-http://ky-tv.cc:25461/Jim25/354354/221181
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="TR:  beIN movies turk FHD" tvg-logo="" group-title="TURKEY",TR:  beIN movies turk FHD
-http://ky-tv.cc:25461/Jim25/354354/221182
-#EXTINF:-1 tvg-id="" tvg-name="TR:  beIN movies yesilcam" tvg-logo="" group-title="TURKEY",TR:  beIN movies yesilcam
-http://ky-tv.cc:25461/Jim25/354354/221183
-#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="TR:  beIN series comedy FHD" tvg-logo="" group-title="TURKEY",TR:  beIN series comedy FHD
-http://ky-tv.cc:25461/Jim25/354354/221184
-#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="TR:  beIN series drama FHD" tvg-logo="" group-title="TURKEY",TR:  beIN series drama FHD
-http://ky-tv.cc:25461/Jim25/354354/221185
-#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="TR:  beIN series sci-fi HD" tvg-logo="" group-title="TURKEY",TR:  beIN series sci-fi HD
-http://ky-tv.cc:25461/Jim25/354354/221186
-#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="TR:  beIN series vice HD" tvg-logo="" group-title="TURKEY",TR:  beIN series vice HD
-http://ky-tv.cc:25461/Jim25/354354/221187
-#EXTINF:-1 tvg-id="" tvg-name="TR:  beIN smart turk HD" tvg-logo="" group-title="TURKEY",TR:  beIN smart turk HD
-http://ky-tv.cc:25461/Jim25/354354/221188
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World FHD" tvg-logo="" group-title="TURKEY",TR: TRT World FHD
-http://ky-tv.cc:25461/Jim25/354354/848963

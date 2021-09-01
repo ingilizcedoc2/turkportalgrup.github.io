@@ -1,153 +1,104 @@
-<?php
-/*
-	SamAir Proxy List Checker
-	Copyright (C) 2006 The SamAir Security (http://www.samair.ru/)
-	Version: 1.2 free, 2006/12/02
-	Free version limitations: you can check not more than 20 proxies per attempt.
-*/
-set_time_limit(200);
-/*
-//Script configuration//////////////////////////////////////////////////////////
-*/
-//------------------------------------------------------------------------------
-//Define what type of checked proxies do you want to save in .txt files.
+#!/usr/bin/python3
 
-//Good proxies (elite and anonymous) saved in good.txt file. You can change the name
-//of this file.
-$goodfilename = "good.txt";
+'''
+    PROX - utility for checking proxy in terminal under the GNU GPL V3.0 Licensy
+    AUTHORS: Hasanov Abdurahmon & Ilyosiddin Kalandar
+    Version: 0.2
+'''
 
-//Do you want to save bad proxies (yes/no)?
-$badproxies = "no";  // if "yes" they saved in "badproxies.txt" file
+from sys import argv
+import urllib3
+from os import system as terminal
+import requests
+from colorama import Fore,Style
 
-//Do you want to save transparent proxies (yes/no)?
-$transparent = "no"; // if "yes" they saved in "transparent.txt" file
+URL = "http://google.com"
+CMD_CLEAR_TERM = "clear"
+TIMEOUT = (3.05,27)
 
-//Do you want to save CoDeen proxies (yes/no)?
-$codeen = "yes"; // if "yes" they saved in "codeen.txt" file
-//------------------------------------------------------------------------------
-//Define font colors of proxy types in checking results table
-//Elite proxies
-$celite = "#008000";
+def check_proxy(proxy):
+    '''
+        Function for check proxy return ERROR
+        if proxy is Bad else
+        Function return None
+    '''
+    try:
+        session = requests.Session()
+        session.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'
+        session.max_redirects = 300
+        proxy = proxy.split('\n',1)[0]
+        print(Fore.LIGHTYELLOW_EX + 'Checking ' + proxy)
+        session.get(URL, proxies={'http':'http://' + proxy}, timeout=TIMEOUT,allow_redirects=True)
+    except requests.exceptions.ConnectionError as e:
+        print(Fore.LIGHTRED_EX + 'Error!')
+        return e
+    except requests.exceptions.ConnectTimeout as e:
+        print(Fore.LIGHTRED_EX + 'Error,Timeout!')
+        return e
+    except requests.exceptions.HTTPError as e:
+        print(Fore.LIGHTRED_EX + 'HTTP ERROR!')
+        return e
+    except requests.exceptions.Timeout as e:
+        print(Fore.LIGHTRED_EX + 'Error! Connection Timeout!')
+        return e
+    except urllib3.exceptions.ProxySchemeUnknown as e:
+        print(Fore.LIGHTRED_EX + 'ERROR unkown Proxy Scheme!')
+        return e
+    except requests.exceptions.TooManyRedirects as e:
+        print(Fore.LIGHTRED_EX + 'ERROR! Too many redirects!')
+        return e
+def print_help():
+    terminal(CMD_CLEAR_TERM)
+    print(Fore.LIGHTGREEN_EX + 'PROX v0.2 - Utility for checking proxy in terminal')
+    print(Fore.LIGHTGREEN_EX + 'Authors: Hasanov Abdurahmon & Ilyosiddin Kalandar')
+    print(Fore.LIGHTCYAN_EX)
+    print('Usage -> prox -f <filename> - Check file with proxies')
+    print('prox -p <proxy> - check only one proxy')
+    print('prox --help - show this menu')
 
-//Anonymous proxies
-$canonymous = "#000080";
-
-//CoDeen proxies
-$ccodeen = "#000000";
-
-//Transparent proxies
-$ctransparent = "#996633";
-
-//Bad or timeouted proxies
-$cbadproxy = "#999999";
-
-/*
-End of script configuration/////////////////////////////////////////////////////
-*/
-
-print "<form method=\"POST\" action=\"proxy-checker.php\">
-    <p><textarea rows=\"20\" cols=\"22\" name=\"send\"></textarea></p>
-    <br>
-    <input type=\"checkbox\" name=\"transparent\" value=\"ON\" checked> show transparent proxies in test results
-    <br>
-    <br>
-    <input type=\"checkbox\" name=\"badproxy\" value=\"ON\" checked> show bad proxies in test results
-    <br>
-    <br>
-    <input type=\"checkbox\" name=\"codeen\" value=\"ON\" checked> show CoDeen proxies  in test results
-    <br>
-    <br>
-    <input type=\"submit\" value=\"send\">
-
-    </form>";
-
-if(isset($_POST['send']))
-{
-$send = $_POST['send'];
-
-print "Wait...<br><br>";
-flush();
-
-print "<table border=\"1\" cellpadding=\"3\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"95%\">
-	<tr>
-		<td bgcolor=\"#C0C0C0\" align=\"center\" width=\"33%\"><b>Proxy port:IP</b></td>
-		<td bgcolor=\"#C0C0C0\" align=\"center\" width=\"33%\"><b>Type</b></td>
-		<td bgcolor=\"#C0C0C0\" align=\"center\" width=\"33%\"><b>Country</b></td>
-	</tr>
-	";
-
-$result = "http://www.samair.ru/proxy-service/proxyjudge.php?send=$send";
-$result1 = file($result);
-foreach($result1 as $line)
-{
-$line = trim($line);
-@list($proxy, $type, $country) = explode("|", $line);
-
-	if($type == "live CoDeeN proxy" AND !isset($_POST['codeen'])) continue;
-	if($type == "transparent" AND !isset($_POST['transparent'])) continue;
-	if($type == "bad proxy or timeout" AND !isset($_POST['badproxy'])) continue;
-
-	if($type == "elite")
-    {
-	$fontcolor = $celite;
-    $handle = fopen($goodfilename, "a");
-	flock($handle,LOCK_EX);
-	fwrite($handle, $proxy . "\n");
-	flock($handle,LOCK_UN);
-	fclose($handle);
-	}
-	if($type == "anonymous")
-    {
-	$fontcolor = $canonymous;
-    $handle = fopen($goodfilename, "a");
-	flock($handle,LOCK_EX);
-	fwrite($handle, $proxy . "\n");
-	flock($handle,LOCK_UN);
-	fclose($handle);
-	}
-	if($type == "live CoDeeN proxy")
-    {
-	$fontcolor = $ccodeen;
-		if($codeen == "yes")
-		{
-	    $handle = fopen("codeen.txt", "a");
-		flock($handle,LOCK_EX);
-		fwrite($handle, $proxy . "\n");
-		flock($handle,LOCK_UN);
-		fclose($handle);
-        }
-	}
-	if($type == "transparent")
-    {
-	$fontcolor = $ctransparent;
-		if($transparent == "yes")
-		{
-	    $handle = fopen("transparent.txt", "a");
-		flock($handle,LOCK_EX);
-		fwrite($handle, $proxy . "\n");
-		flock($handle,LOCK_UN);
-		fclose($handle);
-        }
-	}
-	if($type == "bad proxy or timeout")
-    {
-	$fontcolor = $cbadproxy;
-		if($badproxies == "yes")
-		{
-	    $handle = fopen("badproxies.txt", "a");
-		flock($handle,LOCK_EX);
-		fwrite($handle, $proxy . "\n");
-		flock($handle,LOCK_UN);
-		fclose($handle);
-        }
-	}
-@$type = "<font color=\"". $fontcolor . "\">" . $type . "</font>";
-print "<tr><td>" . $proxy . "</td><td>" . $type . "</td><td>" . $country . "</td></tr>\n";
-}
-
-print "<tr><td height=\"25\" colspan=\"3\" align=\"center\" valign=\"middle\"><small>Powered by <a href=\"http://samair.ru/\">SamAir Security</a></small></td></tr>\n";
-print "</table>";
-
-}
-
-?>
+if len(argv) > 1:
+    commands = ['--help','-h','-f','-p','/?','--file','-file','--proxy','-proxy']
+    if argv[1] in commands:
+        if argv[1] in ('--help','-help','/?','--?'):
+            print_help()
+        elif argv[1] in ('-f','--file','-file'):
+            try:
+                file = open(argv[2])
+                proxies = list(file)
+                goods = 0
+                terminal(CMD_CLEAR_TERM)
+                print(Fore.LIGHTCYAN_EX + '===========================================')
+                for proxy in proxies:
+                    try:
+                        if check_proxy(proxy):
+                            print(Fore.LIGHTRED_EX + 'Bad proxy ' + proxy)
+                        else:
+                            print(Fore.LIGHTGREEN_EX + 'Good proxy ' + proxy)
+                            file_with_goods = open('good.txt','a')
+                            file_with_goods.write(proxy)
+                            goods += 1
+                        print(Fore.LIGHTCYAN_EX + '=================================================')
+                    except KeyboardInterrupt:
+                        print(Fore.LIGHTGREEN_EX + '\nExit.')
+                        exit()
+                print(Fore.LIGHTGREEN_EX + 'Total ' + str(goods) + ' good proxies found')
+                print(Fore.LIGHTRED_EX + 'And ' + str(len(proxies) - goods) + ' is bad')
+                print(Fore.LIGHTYELLOW_EX + 'Have nice day! :)')
+                print()
+            except FileNotFoundError:
+                print(Fore.LIGHTRED_EX + 'Error!\nFile Not found!')
+            except IndexError:
+                print(Fore.LIGHTRED_EX + 'Error!\nMissing filename!')
+        elif argv[1] in ('-p','--proxy','-proxy'):
+            try:
+                argv[2] = argv[2].split(' ')[0]
+                if check_proxy(argv[2]):
+                    print(Fore.LIGHTRED_EX + 'BAD PROXY ' + argv[2])
+                else:
+                    print(Fore.LIGHTGREEN_EX + 'GOOD PROXY ' + argv[2])
+            except IndexError:
+                print(Fore.LIGHTRED_EX + 'Error! Missing proxy!')
+    else:
+        print(Fore.LIGHTRED_EX + 'Unknown option \"' + argv[1] + '\"')
+else:
+    print_help()

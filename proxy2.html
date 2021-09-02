@@ -1,68 +1,20 @@
-kullanarak kodlamaya çalışıyorum
-ancak komut dosyasıyla ilgili bazı sorunlar alıyorum
-, bu da bu biçimde olan proxy listesini > IP:PORT <
-kullanarak dosyadan yükleyebiliyorum.
-
- <input type="file" id="files" name="files[]" class="form-control" placeholder="">
-textarea'dan çorap listesini almak için komut dosyasını almaya çalışıyorum ve kontrol
-komutlarını çalıştırıp başlatmaya çalışıyorum >>>>>
-
-   <body>
-    <div class="container">
-        <form id="proxy_form" class="form-horizontal">
-            <fieldset>
-                <legend>Select Proxy File</legend>
-                <input style="margin-bottom:2px;" type="text" id="host" class="form-control" placeholder="Ping Site (Optional | Default: http://wtfismyip.com/)">
-                <div class="input-group">
-                    <input type="file" id="files" name="files[]" class="form-control" placeholder="">
-                    <span class="input-group-btn">
-                        <input type="submit" class="btn btn-default" type="button">Go!</button>
-                    </span>
-                </div>
-            </fieldset>
-        </form>
-
-        <br>
-
-        <div id="results-panel" class="panel panel-default scrollable-y size-3" hidden>
-        	<div class="panel-body">
-                <div id="results"></div>
-            </div>
-        </div>
-
-        <a id="download_working_proxies" style="width: 100%;margin-bottom:15px;" class="btn btn-success hidden">Download Working Proxies</a>
-
-        <footer>
-            <p>Made by hixtox |  <span id="status" class="pull-right">Idle...</span></p>
-            <p>Checked:<span id="checked" class="pull-right">0</span></p>
-        </footer>
-    </div>
-
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-    <script src="bootstrap-custom/js/bootstrap-custom.js"></script>
-    <script type="text/javascript" src="js/ProxyChecker.js"></script>
-
-    <script>
-        $(document).ready(function() {
-            if (!(window.File && window.FileReader && window.FileList && window.Blob)) {
-                alert("Not all the File API's are supported by your browser!");
-            }
-
-            $("#proxy_form").submit(function(event) {
-                event.preventDefault();
-                var form = $("#proxy_form");
-
-                if (form[0][2].files) {
-                    var file = form[0][2].files[0];
-                    var fileReader = new FileReader();
-                    fileReader.readAsText(file);
-                    fileReader.onload = function(o) {
-                        var result = o.target.result.split(/\s+/);
-                        new ProxyChecker(result, "#host").check();
-                    }
-                }
-            });
-        });
-    </script>
-</body>
+<div class="row check-area">
+		<p class="show_message"></p>
+		<div class="col-md-7">
+			<p class="title">Proxy list</p>
+			<textarea name="proxy-list-check" cols="" row="30" class="form-control"></textarea>
+			<input type="checkbox" name="share" class="" value="1" checked="">Share Proxy<p></p>
+		</div>
+		<div class="col-md-5">
+			<p class="title">Show</p>
+			<div class="col-md-6">
+				<p><input type="checkbox" name="http" value="1" checked="">HTTP</p>
+				<p><input type="checkbox" name="https" value="1" checked="">HTTPS</p>
+				<p><input type="checkbox" name="sock" value="1" checked="">Socks4/5</p>
+			</div>
+			<div class="col-md-6">
+				<p><input type="checkbox" name="fail" value="1" checked="">Not working</p>
+			</div>
+		</div>
+		<div class="col-md-12"><input type="submit" value="Start check" name="check-proxy" class="btn btn-success"></div>
+	</div>

@@ -1,815 +1,1149 @@
-﻿#EXTM3U
-#EXTINF:-1,SINEMA TV 3 (maviboran)
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-#EXTINF:-1,SINEMA TV 4 (maviboran)
-https://cdn.yayin.com.tr/aktiftv/aktiftv/chunklist_w531772223.m3u8
-#EXTINF:-1,SINEMA TV 6 (maviboran)
-https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
-#EXTINF:-1,SINEMA YEŞİLÇAM (maviboran)
+#EXTM3U
+#########✰✮ ULUSAL KANALLAR ✰✮########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1- BoRaN  
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1- BoRaN  
+https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR- BoRaN  
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR- BoRaN  
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D- BoRaN  
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D- BoRaN  
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW- BoRaN  
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW- BoRaN  
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", FOX- BoRaN  
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", FOX- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV- BoRaN  
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)- BoRaN  
+https://blutv-test-live.ercdn.net/test/trt1.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)
+http://93.157.62.180/TRT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR (backup)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR (backup)
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D (backup)
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/showtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW (backup)
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", FOX (backup)
+http://93.157.62.180/FoxTurk/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV (backup)- BoRaN  
+https://trkvz-dev.daioncdn.net/atv/atv.m3u8?ce=3&app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV (backup)
+http://93.157.62.180/ATVTurk/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV (backup)
+http://azerbaijan1.livetv.az/turkey/atv_turk_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV (backup)
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV 8- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV 8- BoRaN  
+https://livex458745.livestreamlive.xyz/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", 360- BoRaN  
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", 360- BoRaN  
+https://mn-nl.mncdn.com/360tv_live/360tv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", 360- BoRaN  
+https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", 360- BoRaN  
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL 7- BoRaN  
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL 7- BoRaN  
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", BEYAZ TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", BEYAZ TV- BoRaN  
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", BEYAZ TV
+http://iptvmasterlink.dyndns.org:8080/Entry/beyaztvhd_yeni/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TEVE 2- BoRaN  
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TEVE 2- BoRaN  
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV 8.5- BoRaN  
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", UCAN KUS- BoRaN  
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", UCAN KUS- BoRaN  
+https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV4- BoRaN  
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV4- BoRaN  
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", A2
+http://diss.tvizlehd.com/live/a2tv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", A2- BoRaN  
+https://livex458745.livestreamlive.xyz/a2.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW MAX
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", AKILLI TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV HD 1- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV HD- BoRaN  
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW TV- BoRaN  
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D- BoRaN  
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D- BoRaN  
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR TV- BoRaN  
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT- BoRaN  
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1,SHOW TV  (maviboran)
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,STAR TV  (maviboran)
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,KANAL D  (maviboran)
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,FOX TV  (maviboran)
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1, EURO STAR (maviboran)
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
-#EXTINF:-1,TRT 1  (maviboran)
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,TRT ÇOCUK (maviboran)
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
-#EXTINF:-1,KANAL 7  (maviboran)
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,ATV HD (maviboran)
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮",ATV HD 
 http://str01.canlitvlive.io:25461/tv/tv/319
-#EXTINF:-1,TV 8.5 HD (maviboran)
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,TLC TV (maviboran)
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.m3u8
-#EXTINF:-1,SPORT TV TÜRKMEN
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Beyaz TV (720p) - BoRaN  
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Beyaz TV (480p) 
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", 360 Tv- BoRaN  
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT TÜRK- BoRaN  
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT TÜRK
+http://iptvmasterlink.dyndns.org:8080/TrtTurk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV8 INT- BoRaN  
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", EURO D- BoRaN  
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", EURO D- BoRaN  
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", EURO D
+http://iptvmasterlink.dyndns.org:8080/EuroD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", EURO STAR- BoRaN  
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", EURO STAR
+http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW TÜRK
+http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL 7 AVRUPA- BoRaN  
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TGRT EU- BoRaN  
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TGRT EU
+http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV AVRUPA
+http://diss.tvizlehd.com/live/atvavrupa.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT AVAZ- BoRaN  
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT AVAZ
+http://iptvmasterlink.dyndns.org:8080/TrtAvaz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", CEM TV- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/cemtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", CEM TV
+http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", CEM TV
+http://diss.tvizlehd.com/live/cemtv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL B- BoRaN  
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", VATAN TV
+http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", VATAN TV- BoRaN  
+https://livesx.canlitv.center/vatantv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", DIYANET TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", DIYANET TV- BoRaN  
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SEMERKAND- BoRaN  
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SEMERKAND
+http://iptvmasterlink.dyndns.org:8080/SemerkandTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SAT 7 TÜRK
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SAT 7 TÜRK
+http://yerelmedya.tv:1935/sat7turk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", DOST TV- BoRaN  
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", REHBER TV- BoRaN  
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", REHBER TV
+http://iptvmasterlink.dyndns.org:8080/Entry/rehbertv_yeni/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", MESAJ TV- BoRaN  
+https://waw1.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", MESAJ TV
+http://yerelmedya.tv:1935/mesajtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", MELTEM TV
+http://diss.tvizlehd.com/live/meltemtv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", MELTEM TV- BoRaN  
+https://livesx.canlitv.center/meltemtv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV8 (576p) 
+http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV 8 (480p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV 8.5 (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (720p)- BoRaN  
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 2 - BoRaN  
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 3 (720p) - BoRaN  
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Arabi (1080p)- BoRaN  
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Arabi̇ (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Avaz (720p)- BoRaN  
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Belgesel (720p)- BoRaN  
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Çocuk (720p)- BoRaN  
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Diyanet (1080p)- BoRaN  
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT EBA Ilkokul (720p) - BoRaN  
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT EBA Lise (720p) - BoRaN  
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT EBA Ortaokul (720p) - BoRaN  
+https://tv-e-okul01.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Kurdî (720p)- BoRaN  
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Muzik (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT Türk (720p)- BoRaN  
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT World (1080p)- BoRaN  
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TV4 (720p)- BoRaN  
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Star TV (480p) 
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Star TV (480p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/69.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Kanal D (540p)- BoRaN  
+https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Kanal D (480p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/66.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Kanal D Romania (384p) - BoRaN  
+https://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ,Kanal 7 (1080p)- BoRaN  
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Kanal 7 (576p)- BoRaN  
+https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", Kanal 7 Avrupa (1080p)- BoRaN  
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+
+
+########### ÇOCUK  KANALLAR###########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT COCUK- BoRaN  
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT COCUK- BoRaN  
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", CARTOON NETWORK TR
+http://185.129.1.242:80/cartoonnetworkturk/mpegts
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", CARTOON NETWORK TR
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", DISNEY CHANNEL TR
+http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", MINIKA COCUK- BoRaN  
+https://diss.tvizlehd.com/live/minikacocuk.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", MINIKA COCUK
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", MINIKA GO
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", MINIKA GO
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", KIDS TURK- BoRaN  
+https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT EBA ILK- BoRaN  
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT EBA ILK- BoRaN  
+https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT EBA ORTA- BoRaN  
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT EBA ORTA- BoRaN  
+https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT EBA LISE- BoRaN  
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ÇOCUK KANALLAR ✰✮", TRT EBA LISE- BoRaN  
+https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
+
+
+
+
+#########✰✮ SPOR KANALLAR ✰✮########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮",SPORT TV TÜRKMEN
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1,SPORTS TV TÜRK
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮",SPORTS TV TÜRK- BoRaN  
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1,SUPER LIG (maviboran)
-http://46.105.178.212:8484/ntvspor.ts
-#EXTINF:-1,TRT SPOR 2 (maviboran)
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮",TRT SPOR 2 - BoRaN  
 https://tv-trtspor2.live.trt.com.tr/master.m3u8
-#EXTINF:-1,GS TV (maviboran)
-http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1,CNN TURK  (maviboran)
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,HABERTURK  (maviboran)
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,HABER GLOBAL  (maviboran)
-https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,NTV  (maviboran)
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,FİNANS TURK (maviboran)
-http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1,GÜNEYDOĞU TV (maviboran)
-https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
-#EXTINF:-1,İBB TV (maviboran)
-https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
-#EXTINF:-0, TRT 1 (maviboran)
-http://mn-nl.mncdn.com:80/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
-#EXTINF:-0, TRT 2 (maviboran)
-http://yayin2.tvizlehd.com:80/trt2.m3u8
-#EXTINF:-0, SHOW TV (maviboran)
-http://mn-nl.mncdn.com:80/blutv_showtv/smil:show_sd.smil/playlist.m3u8
-#EXTINF:-0, KANAL D (maviboran)
-http://mn-nl.mncdn.com:80/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
-#EXTINF:-0, EURO D (maviboran)
-http://yayin2.tvizlehd.com:80/eurod.m3u8
-#EXTINF:-0, KANAL 7 (maviboran)
-http://yayin2.tvizlehd.com:80/kanal7.m3u8
-#EXTINF:-0, KANAL 7 EURO (maviboran)
-http://yayin2.tvizlehd.com:80/kanal7avrupa.m3u8
-#EXTINF:-0, A2 TV (maviboran)
-http://iptvmasterlink.dyndns.org:5566/Entry/a2hd_yeni.m3u8
-#EXTINF:-0, ATV TV (maviboran)
-http://europe2.livetv.az:80/turkey/atv_turk_sd/playlist.m3u8
-#EXTINF:-0, ATV EURO (maviboran)
-http://yayin2.tvizlehd.com:80/atvavrupa.m3u8
-#EXTINF:0, STAR TV (maviboran)
-http://mn-nl.mncdn.com:80/blutv_star/smil:star_sd.smil/playlist.m3u8
-#EXTINF:0, EURO STAR (maviboran)
-http://yayin2.tvizlehd.com:80/eurostar.m3u8
-#EXTINF:-0, FOX HD (maviboran)
-http://mn-nl.mncdn.com:80/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
-#EXTINF:-0, NTV HD (maviboran)
-http://mn-nl.mncdn.com:80/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
-#EXTINF:-0, TRT BELGESEL (maviboran)
-http://mn-nl.mncdn.com:80/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8
-#EXTINF:-0, TV 8 HD (maviboran)
-http://mn-nl.mncdn.com:80/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
-#EXTINF:-0, TV 360 (maviboran)
-http://yayin2.tvizlehd.com:80/360tv.m3u8
-#EXTINF:-0, KANAL B (maviboran)
-http://yayin2.tvizlehd.com:80/kanalb.m3u8
-#EXTINF:-0, TV 8.5 (maviboran)
-http://yayin2.tvizlehd.com:80/tv85.m3u8
-#EXTINF:-0, TELE 2 (maviboran)
-http://yayin2.tvizlehd.com:80/teve2.m3u8
-#EXTINF:-0, CİNE5 (maviboran)
-http://cdn-cine5.yayin.com.tr:80/cine5/cine5/chunklist_w1400599012.m3u8
-#EXTINF:-0, A SPOR (maviboran)
-http://europe2.livetv.az:80/turkey/sportr2/playlist.m3u8
-#EXTINF:-0, HABERTURK (maviboran)
-http://mn-nl.mncdn.com:80/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
-#EXTINF:-0, DMAX (maviboran)
-http://europe2.livetv.az:80/turkey/dmax/playlist.m3u8
-#EXTINF:-0, BLOOMBERG TV
-http://mn-nl.mncdn.com:80/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
-#EXTINF:-0, BEYAZ TV (maviboran)
-http://mn-nl.mncdn.com:80/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
-#EXTINF:-0, TRT COCUK (maviboran)
-http://mn-nl.mncdn.com:80/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
-#EXTINF:-0, TRT HABER (maviboran)
-http://mn-nl.mncdn.com:80/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
-#EXTINF:-0, TRT MUZIK (maviboran)
-http://mn-nl.mncdn.com:80/blutv_trtmuzik/smil:trtmuzik_sd.smil/playlist.m3u8
-#EXTINF:-0, KRAL TV (maviboran)
-http://mn-nl.mncdn.com:80/blutv_trtmuzik/smil:trtmuzik_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-0, DAMAR TV (maviboran)
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", ,Yeni Malatyaspor TV (720p) - BoRaN  
+https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TRT Spor - BoRaN  
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", NTV Spor 
+http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TRT SPOR- BoRaN  
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TRT SPORs1- BoRaN  
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TRT SPOR2 s2- BoRaN  
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TRT SPOR2 s3- BoRaN  
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TRT3 SPOR- BoRaN  
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", A SPOR- BoRaN  
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", A SPOR- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TIVIBU SPOR
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", B.I.S. HABER- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", B.I.S. HABER- BoRaN  
+https://diss.tvizlehd.com/live/beinsporthaber.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", SPORTS TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", SPORTS TV
+http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", SPORTS TV- BoRaN  
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", GALATASARAY TV- BoRaN  
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", FENERBAHCE TV- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", FENERBAHCE TV
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", FENERBAHCE TV- BoRaN  
+https://livex458745.livestreamlive.xyz/fb.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TAY TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+
+
+
+#########✰✮ SİNEMA KANALLAR ✰✮########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON YEŞİLÇAM 
+https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON YEŞİLÇAM 2
+https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON TÜRK SİNEMA
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON RECEP IVEDİK
+https://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON KEMAL SUNAL 
+https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON SENER SEN
+https://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON BİZİMKİLER
+https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", VİZYON AVRUPA YAKASİ
+https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", SINEMA YEŞİLÇAM - BoRaN  
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", EXTRA SİNEMA (1080p) 
+http://tt61.mine.nu/live/PetraTV/Fw99Gpq7Gq/6478.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", SİNEMA TVEm (486p)
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", SİNEMA TVEm (486p)- BoRaN  
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", Beyaz TV (720p) - BoRaN  
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", Beyaz TV (480p) 
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", BLUE ÖZEL - BoRaN  
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", BLUE AKSIYON- BoRaN  
+https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮",BLUE  KOMEDI- BoRaN  
+https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", BLUE  KARMA- BoRaN  
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", BLUE NOSTALJI- BoRaN  
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", Life TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", AFYON TÜRK SİNEMA
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SİNEMA KANALLAR ✰✮", CİNE 5 SİNEMA
+https://host.onlineradyotv.net:1936/cine5/cine5/chunklist_w1555985136.m3u8
+
+
+
+
+
+
+
+
+#########MUZİK  KANALLAR########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", DAMAR TV 
 http://51.255.7.18:8080/hls/damar.m3u8
-#EXTINF:-1,NTV SPOR (maviboran)
-http://46.105.178.212:8484/ntvspor.ts
-#EXTINF:-1,KRAL TV (maviboran)
-https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1,KRAL POP (maviboran)
-https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1,NUMBER ONE TV
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1,NUMBER ONE AŞK
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
-#EXTINF:-1,NUMBER ONE DAMAR
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
-#EXTINF:-1,NUMBER ONE DANCE
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
-#EXTINF:-1,NUMBER ONE TÜRK
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:1, SİNEMA TV  1 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/97.ts
-#EXTINF:0, SİNEMA TV  2 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
-#EXTINF:0,SİNEMA TV  3 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
-#EXTINF:0,SİNEMA TV  4 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/100.ts
-#EXTINF:0,SİNEMA TV  5 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/101.ts
-#EXTINF:0,SİNEMA TV  6 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/102.ts
-#EXTINF:0,SİNEMA TV  7 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/103.ts
-#EXTINF:0,SİNEMA TV  8 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/104.ts
-#EXTINF:0,SİNEMA TV  9 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
-#EXTINF:0,SİNEMA TV  10 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/106.ts
-#EXTINF:0,SİNEMA TV  11 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/107.ts
-#EXTINF:0,SİNEMA TV  12 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/108.ts
-#EXTINF:0,SİNEMA TV  13 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/109.ts
-#EXTINF:0,SİNEMA TV  14 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/110.ts
-#EXTINF:0,SİNEMA TV  15 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/111.ts
-#EXTINF:0,SİNEMA TV  16 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/112.ts
-#EXTINF:0,SİNEMA TV  17 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/113.ts
-#EXTINF:0,SİNEMA TV  18 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/114.ts
-#EXTINF:0,SİNEMA TV  19 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/115.ts
-#EXTINF:0,SİNEMA TV  20 (maviboran)
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/116.ts
-#EXTINF:-1,İST. HALİÇ KÖPRÜ (maviboran)
-http://ibb-media4.ibb.gov.tr:1935/live/148.stream/chunklist_w599656335.m3u8
-#EXTINF:-1,İST. AYVANSARAY (maviboran)
-http://ibb-media1.ibb.gov.tr:1935/live/194.stream/chunklist_w1604150107.m3u8
-#EXTINF:-1,İST. BAĞCILAR (maviboran)
-http://ibb-media2.ibb.gov.tr:1935/live/659.stream/chunklist_w354579030.m3u8
-#EXTINF:-1,BAĞDAT CAD (maviboran)
-http://ibb-media4.ibb.gov.tr:1935/live/17.stream/chunklist_w1687748545.m3u8
-#EXTINF:-1,ŞİRİNEVLER (maviboran)
-http://ibb-media1.ibb.gov.tr:1935/live/161.stream/chunklist_w1545006697.m3u8
-#EXTINF:-1,FSM KÖPRÜSÜ (maviboran)
-http://ibb-media1.ibb.gov.tr:1935/live/338.stream/chunklist_w1567376213.m3u8
-#EXTINF:-1, İST. YEDİKULE (maviboran)
-http://ibb-media1.ibb.gov.tr:1935/live/273.stream/chunklist_w667660429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE ULUSAL - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE ULUSAL - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287362
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TR | Turkey",TR: TRT 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287363
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 SD" tvg-logo="" group-title="TR | Turkey",TR: TRT 1 SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287364
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="TR | Turkey",TR: ATV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287365
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV SD" tvg-logo="" group-title="TR | Turkey",TR: ATV SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287366
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOWTV HD" tvg-logo="" group-title="TR | Turkey",TR: SHOWTV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287367
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOWTV SD" tvg-logo="" group-title="TR | Turkey",TR: SHOWTV SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287368
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="TR | Turkey",TR: STAR TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287369
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV SD" tvg-logo="" group-title="TR | Turkey",TR: STAR TV SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287370
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="TR | Turkey",TR: KANAL D HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287371
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D SD" tvg-logo="" group-title="TR | Turkey",TR: KANAL D SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287372
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="TR | Turkey",TR: FOX TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287373
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV SD" tvg-logo="" group-title="TR | Turkey",TR: FOX TV SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287374
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 HD" tvg-logo="" group-title="TR | Turkey",TR: TV8 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287375
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 SD" tvg-logo="" group-title="TR | Turkey",TR: TV8 SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287376
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD" tvg-logo="" group-title="TR | Turkey",TR: TV 8.5 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287377
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" tvg-logo="" group-title="TR | Turkey",TR: KANAL 7 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287378
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 SD" tvg-logo="" group-title="TR | Turkey",TR: KANAL 7 SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287379
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="TR | Turkey",TR: BEYAZ TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287380
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV SD" tvg-logo="" group-title="TR | Turkey",TR: BEYAZ TV SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287381
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" tvg-logo="" group-title="TR | Turkey",TR: A2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287382
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT2 HD" tvg-logo="" group-title="TR | Turkey",TR: TRT2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287383
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - ULUSAL 4K TRANSCODED - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - ULUSAL 4K TRANSCODED - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287384
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: TRT 1 [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287385
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: ATV [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287386
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: KANAL D [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287387
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: FOX TV [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287388
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: TV 8 [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287389
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: KANAL 7 [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287390
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: A2 [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287391
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" tvg-logo="" group-title="TR | Turkey",TR: SHOW TURK
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287392
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX HD" tvg-logo="" group-title="TR | Turkey",TR: SHOW MAX HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287393
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE HABER - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE HABER - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287394
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="TR | Turkey",TR: A HABER HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287395
-#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo="" group-title="TR | Turkey",TR: TELE 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287396
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET" tvg-logo="" group-title="TR | Turkey",TR: TV NET
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287397
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="" group-title="TR | Turkey",TR: NTV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287398
-#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo="" group-title="TR | Turkey",TR: HALK TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287399
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV SD" tvg-logo="" group-title="TR | Turkey",TR: ULKE TV SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287400
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24 HD" tvg-logo="" group-title="TR | Turkey",TR: KANAL 24 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287401
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD" tvg-logo="" group-title="TR | Turkey",TR: CNN TURK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287402
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK SD" tvg-logo="" group-title="TR | Turkey",TR: CNN TURK SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287403
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="TR | Turkey",TR: TRT HABER HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287404
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER HD" tvg-logo="" group-title="TR | Turkey",TR: TGRT HABER HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287405
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK HD" tvg-logo="" group-title="TR | Turkey",TR: HABERTURK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287406
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK SD" tvg-logo="" group-title="TR | Turkey",TR: HABERTURK SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287407
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT HD" tvg-logo="" group-title="TR | Turkey",TR: BLOOMBERG HT HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287408
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - HABER 4K TRANSCODED - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - HABER 4K TRANSCODED - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287409
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: TRT HABER [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287410
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: BLOOMBERG HT [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287411
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: HABER GLOBAL [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287412
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: TEVE 2 [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287413
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE SINEMA - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE SINEMA - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287414
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFF�CE 1 HD" tvg-logo="" group-title="TR | Turkey",TR: BEiN BOX OFF�CE 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287415
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFF�CE 2 HD" tvg-logo="" group-title="TR | Turkey",TR: BEiN BOX OFF�CE 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287416
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFF�CE 3 HD" tvg-logo="" group-title="TR | Turkey",TR: BEiN BOX OFF�CE 3 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287417
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR | Turkey",TR: beIN MOVIES ACTION 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287418
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION HD" tvg-logo="" group-title="TR | Turkey",TR: beIN MOVIES ACTION HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287419
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES FAMILY HD" tvg-logo="" group-title="TR | Turkey",TR: beIN MOVIES FAMILY HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287420
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES PREMIERE 2 HD" tvg-logo="" group-title="TR | Turkey",TR: beIN MOVIES PREMIERE 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287421
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES PREMIERE HD" tvg-logo="" group-title="TR | Turkey",TR: beIN MOVIES PREMIERE HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287422
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="" group-title="TR | Turkey",TR: beIN MOVIES STARS HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287423
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES TURK HD" tvg-logo="" group-title="TR | Turkey",TR: beIN MOVIES TURK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287424
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES COMEDY HD" tvg-logo="" group-title="TR | Turkey",TR: beIN SERIES COMEDY HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287425
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES DRAMA HD" tvg-logo="" group-title="TR | Turkey",TR: beIN SERIES DRAMA HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287426
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES SCI-FI HD" tvg-logo="" group-title="TR | Turkey",TR: beIN SERIES SCI-FI HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287427
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART ACTION HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART ACTION HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287428
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART CLASSIC HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART CLASSIC HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287429
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART FAMILY HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART FAMILY HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287430
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART FEST HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART FEST HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287431
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART GOLD HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART GOLD HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287432
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART PLATIN 2 HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART PLATIN 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287433
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART PLATIN HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART PLATIN HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287434
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART PREMIUM 2 HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART PREMIUM 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287435
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART PREMIUM HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART PREMIUM HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287436
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART TURK HD" tvg-logo="" group-title="TR | Turkey",TR: MOVIE SMART TURK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287437
-#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA TV AKSiYON HD" tvg-logo="" group-title="TR | Turkey",TR: SiNEMA TV AKSiYON HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287438
-#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA TV YERLi HD" tvg-logo="" group-title="TR | Turkey",TR: SiNEMA TV YERLi HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287439
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="" group-title="TR | Turkey",TR: DIZI SMART PREMIUM HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287440
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN  GURME  HD" tvg-logo="" group-title="TR | Turkey",TR: BEIN  GURME  HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287441
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV (Backup)" tvg-logo="" group-title="TR | Turkey",TR: 360 TV (Backup)
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287442
-#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD [4K Transcoded]" tvg-logo="" group-title="TR | Turkey",TR: DMAX HD [4K Transcoded]
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287443
-#EXTINF:-1 tvg-id="" tvg-name="TR: ON4" tvg-logo="" group-title="TR | Turkey",TR: ON4
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287444
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Kemal Sunal 1 HD" tvg-logo="" group-title="TR | Turkey",TR: Cine Kemal Sunal 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287445
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Kemal Sunal 3 HD" tvg-logo="" group-title="TR | Turkey",TR: Cine Kemal Sunal 3 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287446
-#EXTINF:-1 tvg-id="" tvg-name="TR: YESiLCAM TV MEDOTV HD" tvg-logo="" group-title="TR | Turkey",TR: YESiLCAM TV MEDOTV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287447
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL MEDOTV HD" tvg-logo="" group-title="TR | Turkey",TR: KEMAL SUNAL MEDOTV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287448
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287449
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287450
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287451
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KEMAL SUNAL TV" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KEMAL SUNAL TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287452
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV WESTERN" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV WESTERN
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287453
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV STAR WARS" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV STAR WARS
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287454
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV GOLD MIX" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV GOLD MIX
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287455
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV YESILCAM" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV YESILCAM
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287456
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV CIZGI FILM" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV CIZGI FILM
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287457
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV CEM YILMAZ" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV CEM YILMAZ
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287458
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV VIZYON 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV VIZYON 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287459
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV TURK SINEMA 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287460
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV TURK SINEMA 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287461
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV TURK SINEMA 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287462
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 4" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV TURK SINEMA 4
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287463
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 5" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV TURK SINEMA 5
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287464
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV AKSIYON 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287465
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV AKSIYON 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287466
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV AKSIYON 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287467
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 4" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV AKSIYON 4
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287468
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 5" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV AKSIYON 5
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287469
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 6" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV AKSIYON 6
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287470
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV ANIMASYON 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV ANIMASYON 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287471
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV ANIMASYON 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV ANIMASYON 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287472
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV ANIMASYON 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV ANIMASYON 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287473
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BELGESEL" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV BELGESEL
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287474
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BILIMKURGU 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV BILIMKURGU 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287475
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BILIMKURGU 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV BILIMKURGU 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287476
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BILIMKURGU 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV BILIMKURGU 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287477
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV DRAMA 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287478
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV DRAMA 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287479
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV DRAMA 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287480
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 4" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV DRAMA 4
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287481
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 5" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV DRAMA 5
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287482
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 6" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV DRAMA 6
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287483
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KOMEDI 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287484
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KOMEDI 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287485
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KOMEDI 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287486
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 4" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KOMEDI 4
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287487
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 5" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KOMEDI 5
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287488
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KORKU 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KORKU 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287489
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KORKU 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KORKU 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287490
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KORKU 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV KORKU 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287491
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 1" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287492
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 2" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287493
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 3" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287494
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 4" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 4
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287495
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 5" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 5
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287496
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 6" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 6
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287497
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 7" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 7
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287498
-#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 10" tvg-logo="" group-title="TR | Turkey",TR: MEDOTV MIX 10
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287499
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 1 HD" tvg-logo="" group-title="TR | Turkey",TR: LOCA 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287500
-#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 2 HD" tvg-logo="" group-title="TR | Turkey",TR: LOCA 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287501
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE BELGESEL - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE BELGESEL - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287502
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="" group-title="TR | Turkey",TR: TLC
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287503
-#EXTINF:-1 tvg-id="" tvg-name="TR: YABAN TV HD" tvg-logo="" group-title="TR | Turkey",TR: YABAN TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287504
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL HD" tvg-logo="" group-title="TR | Turkey",TR: TRT BELGESEL HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287505
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAL PLANET HD" tvg-logo="" group-title="TR | Turkey",TR: ANIMAL PLANET HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287506
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD" tvg-logo="" group-title="TR | Turkey",TR: NAT GEO WILD HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287507
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY HD" tvg-logo="" group-title="TR | Turkey",TR: DISCOVERY HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287508
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD" tvg-logo="" group-title="TR | Turkey",TR: NAT GEO WILD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287509
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE COCUK - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE COCUK - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287510
-#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON" tvg-logo="" group-title="TR | Turkey",TR: NICKELODEON
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287511
-#EXTINF:-1 tvg-id="" tvg-name="TR: NICK JR" tvg-logo="" group-title="TR | Turkey",TR: NICK JR
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287512
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="" group-title="TR | Turkey",TR: DISNEY CHANNEL HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287513
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JUNIOR" tvg-logo="" group-title="TR | Turkey",TR: DISNEY JUNIOR
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287514
-#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="" group-title="TR | Turkey",TR: CARTOON NETWORK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287515
-#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="TR | Turkey",TR: MINIKA COCUK
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287516
-#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO" tvg-logo="" group-title="TR | Turkey",TR: MINIKA GO
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287517
-#EXTINF:-1 tvg-id="" tvg-name="TR: BABYF�RST TV HD" tvg-logo="" group-title="TR | Turkey",TR: BABYF�RST TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287518
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="TR | Turkey",TR: TRT COCUK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287519
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE DINI - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE DINI - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287520
-#EXTINF:-1 tvg-id="" tvg-name="TR: Semerkand TV" tvg-logo="" group-title="TR | Turkey",TR: Semerkand TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287521
-#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR | Turkey",TR: BABY TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287522
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE SPOR - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE SPOR - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287523
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 HD" tvg-logo="" group-title="TR | Turkey",TR: TIVIBU SPOR 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287524
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="" group-title="TR | Turkey",TR: TIVIBU SPOR 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287525
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="" group-title="TR | Turkey",TR: TIVIBU SPOR 3 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287526
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTSPOR 1 HD" tvg-logo="" group-title="TR | Turkey",TR: SMARTSPOR 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287527
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD" tvg-logo="" group-title="TR | Turkey",TR: S SPORT HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287528
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="" group-title="TR | Turkey",TR: TRT SPOR HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287529
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV HD" tvg-logo="" group-title="TR | Turkey",TR: SPORTS TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287530
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="" group-title="TR | Turkey",TR: A SPOR HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287531
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR SD" tvg-logo="" group-title="TR | Turkey",TR: A SPOR SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287532
-#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="" group-title="TR | Turkey",TR: FB TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287533
-#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="" group-title="TR | Turkey",TR: GS TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287534
-#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="" group-title="TR | Turkey",TR: NBA TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287535
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2" tvg-logo="" group-title="TR | Turkey",TR: TRT SPOR 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287536
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="TR | Turkey",TR: EUROSPORT 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287537
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="" group-title="TR | Turkey",TR: EUROSPORT 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287538
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE  BEINSPORT - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE  BEINSPORT - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287539
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD (50fps 1920x1080)" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS 1 HD (50fps 1920x1080)
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287540
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS SD 1 (MEDOTV)" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS SD 1 (MEDOTV)
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287541
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORT 1 (MACTA FHD)" tvg-logo="" group-title="TR | Turkey",TR: BEINSPORT 1 (MACTA FHD)
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287542
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORT 1 BACKUP" tvg-logo="" group-title="TR | Turkey",TR: BEINSPORT 1 BACKUP
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287543
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287544
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS SD 2" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS SD 2
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287545
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS 3 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287546
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS SD 3" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS SD 3
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287547
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS 4 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287548
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS SD 4" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS SD 4
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287549
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORT 1 (480p)" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORT 1 (480p)
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287550
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS MAX 1 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287551
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 SD" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS MAX 1 SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287552
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS MAX 2 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287553
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 SD" tvg-logo="" group-title="TR | Turkey",TR: BEIN SPORTS MAX 2 SD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287554
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN SPORT HABER HD" tvg-logo="" group-title="TR | Turkey",TR: BEiN SPORT HABER HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287555
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE MUZIK - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE MUZIK - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287556
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV HD" tvg-logo="" group-title="TR | Turkey",TR: KRAL TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287557
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER HD" tvg-logo="" group-title="TR | Turkey",TR: POWER HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287558
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWERTURK HD" tvg-logo="" group-title="TR | Turkey",TR: POWERTURK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287559
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK HD" tvg-logo="" group-title="TR | Turkey",TR: DREAM TURK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287560
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TV" tvg-logo="" group-title="TR | Turkey",TR: DREAM TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287561
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK HD" tvg-logo="" group-title="TR | Turkey",TR: TRT MUZIK HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287562
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TURKIYE DIGER KANALAR - - - - -" tvg-logo="" group-title="TR | Turkey",- - - - - TURKIYE DIGER KANALAR - - - - -
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287563
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKIT TV HD" tvg-logo="" group-title="TR | Turkey",TR: AKIT TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287564
-#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV HD" tvg-logo="" group-title="TR | Turkey",TR: Can TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287565
-#EXTINF:-1 tvg-id="" tvg-name="TR: Gonca TV HD" tvg-logo="" group-title="TR | Turkey",TR: Gonca TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287566
-#EXTINF:-1 tvg-id="" tvg-name="TR: Rehber TV HD" tvg-logo="" group-title="TR | Turkey",TR: Rehber TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287567
-#EXTINF:-1 tvg-id="" tvg-name="TR: Siteler TV HD" tvg-logo="" group-title="TR | Turkey",TR: Siteler TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287568
-#EXTINF:-1 tvg-id="" tvg-name="TR: T�rkmen Owazy HD" tvg-logo="" group-title="TR | Turkey",TR: T�rkmen Owazy HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287569
-#EXTINF:-1 tvg-id="" tvg-name="TR: T�rkmen Sport TV HD" tvg-logo="" group-title="TR | Turkey",TR: T�rkmen Sport TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287570
-#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1" tvg-logo="" group-title="TR | Turkey",TR: BRT 1
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287571
-#EXTINF:-1 tvg-id="" tvg-name="TR: Brt 2 TV" tvg-logo="" group-title="TR | Turkey",TR: Brt 2 TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287572
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cay TV" tvg-logo="" group-title="TR | Turkey",TR: Cay TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287573
-#EXTINF:-1 tvg-id="" tvg-name="TR: DRT Denizli" tvg-logo="" group-title="TR | Turkey",TR: DRT Denizli
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287574
-#EXTINF:-1 tvg-id="" tvg-name="TR: Egeturk TV" tvg-logo="" group-title="TR | Turkey",TR: Egeturk TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287575
-#EXTINF:-1 tvg-id="" tvg-name="TR: Beng� T�rk HD" tvg-logo="" group-title="TR | Turkey",TR: Beng� T�rk HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287576
-#EXTINF:-1 tvg-id="" tvg-name="TR: Pamukkale TV" tvg-logo="" group-title="TR | Turkey",TR: Pamukkale TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287577
-#EXTINF:-1 tvg-id="" tvg-name="TR: Laleg�l TV" tvg-logo="" group-title="TR | Turkey",TR: Laleg�l TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287578
-#EXTINF:-1 tvg-id="" tvg-name="TR: Semerkant TV" tvg-logo="" group-title="TR | Turkey",TR: Semerkant TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287579
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal Avrupda HD" tvg-logo="" group-title="TR | Turkey",TR: Kanal Avrupda HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287580
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 58 HD" tvg-logo="" group-title="TR | Turkey",TR: Kanal 58 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287581
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 5 HD" tvg-logo="" group-title="TR | Turkey",TR: Kanal 5 HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287582
-#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Tv" tvg-logo="" group-title="TR | Turkey",TR: Dream Tv
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287583
-#EXTINF:-1 tvg-id="" tvg-name="TR: FIRAT TV" tvg-logo="" group-title="TR | Turkey",TR: FIRAT TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287584
-#EXTINF:-1 tvg-id="" tvg-name="TR: Vatan TV" tvg-logo="" group-title="TR | Turkey",TR: Vatan TV
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287585
-#EXTINF:-1 tvg-id="" tvg-name="TR: On4 TV HD" tvg-logo="" group-title="TR | Turkey",TR: On4 TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287586
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kay TV Kayseri HD" tvg-logo="" group-title="TR | Turkey",TR: Kay TV Kayseri HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287587
-#EXTINF:-1 tvg-id="" tvg-name="TR: K�br�s Gen� Tv HD" tvg-logo="" group-title="TR | Turkey",TR: K�br�s Gen� Tv HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287588
-#EXTINF:-1 tvg-id="" tvg-name="TR: Etv Manisa HD" tvg-logo="" group-title="TR | Turkey",TR: Etv Manisa HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287589
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal Avrupa" tvg-logo="" group-title="TR | Turkey",TR: Kanal Avrupa
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287590
-#EXTINF:-1 tvg-id="" tvg-name="TR: Riza Cay TV HD" tvg-logo="" group-title="TR | Turkey",TR: Riza Cay TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287591
-#EXTINF:-1 tvg-id="" tvg-name="TR: Dost Tv HD" tvg-logo="" group-title="TR | Turkey",TR: Dost Tv HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287592
-#EXTINF:-1 tvg-id="" tvg-name="TR: Afyon Turk TV HD" tvg-logo="" group-title="TR | Turkey",TR: Afyon Turk TV HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287593
-#EXTINF:-1 tvg-id="" tvg-name="TR: CRI Turk Belgesel HD" tvg-logo="" group-title="TR | Turkey",TR: CRI Turk Belgesel HD
-http://tanmedia.watch:8880/Mohammeddalal@outlook.com/G6qnRXzrhK/287594
-#EXTINF:-1 group-title="-",24 HD
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", TRT MÜZIK- BoRaN  
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", TRT MÜZIK- BoRaN  
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", TRT MÜZIK
+http://iptvmasterlink.dyndns.org:8080/TrtMuzik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", KRAL POP- BoRaN  
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", KRAL TV
+http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", KRAL TV- BoRaN  
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", POWER TÜRK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", POWER TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", POWER TÜRK- BoRaN  
+https://waw1.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", DREAM TÜRK- BoRaN  
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", DREAM TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", TATLISES- BoRaN  
+https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", TATLISES
+http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", MILYON TV- BoRaN  
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", MILYON TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", MILYON TV- BoRaN  
+https://diss.tvizlehd.com/live/milyontv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", NUMBER ONE TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", NUMBER ONE- BoRaN  
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", POWER TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_power2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", POWER TV- BoRaN  
+https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Первый Музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", HDFashion&Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", ТНТ Music HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", М1 HD
+http://live.m2.tv/hls2/720/stream.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Qello TV HD
+https://stirr.ott-channels.stingray.com/qello/master_1280x720_2000kbps.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Karaoke HD
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Classica HD
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Stingray Jazz HD
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", MCM Top
+http://194.190.78.91:8080/mcm/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", V2BEAT HD
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", V2Beat HD
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", M6Music HD
+http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Viva Russia HD
+http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MUZİK KANALLAR ✰✮", Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+
+
+#########HABER  KANALLAR########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TRT HABER- BoRaN  
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TRT HABER- BoRaN  
+https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER TÜRK- BoRaN  
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", CNN TÜRK- BoRaN  
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", CNN TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER GLOBAL- BoRaN  
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER GLOBAL- BoRaN  
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", NTV- BoRaN  
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", NTV- BoRaN  
+https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV 100- BoRaN  
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV 100- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/tv100.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", 24- BoRaN  
+https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", 24- BoRaN  
+https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TGRT HABER- BoRaN  
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TGRT HABER- BoRaN  
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", BLOOMBERG HT- BoRaN  
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", BLOOMBERG HT- BoRaN  
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", EKO TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TRT HABER (backup)
+http://iptvmasterlink.dyndns.org:8080/Entry/trthaberhd_yeni/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER TÜRK (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/haberturk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER TÜRK (backup)
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", CNN TÜRK (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/cnnturk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", CNN TÜRK (backup)
+http://iptvmasterlink.dyndns.org:8080/Entry/cnnturkhd_yeni/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER GLOBAL (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/haberglobal.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", NTV (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/ntv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", NTV (backup)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", NTV (backup)
+http://iptvmasterlink.dyndns.org:8080/Entry/ntvhd_yeni/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV 100 (backup)- BoRaN  
+https://livex458745.livestreamlive.xyz/tv100.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", 24 (backup)- BoRaN  
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", 24 (backup)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", 24 (backup)
+http://iptvmasterlink.dyndns.org:8080/Entry/24hd_yeni/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TGRT HABER (backup)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TGRT HABER (backup)- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/tgrthaber.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", BLOOMBERG HT (backup)- BoRaN  
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", BLOOMBERG HT (backup)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", KRT- BoRaN  
+https://livex458745.livestreamlive.xyz/krt.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", KRT- BoRaN  
+https://diss.tvizlehd.com/live/krttv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TELE 1- BoRaN  
+https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TELE 1
+http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TELE 1- BoRaN  
+https://livex458745.livestreamlive.xyz/tele1.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HALK TV- BoRaN  
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HALK TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HALK TV- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", FLASH TV- BoRaN  
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", FLASH TV- BoRaN  
+https://diss.tvizlehd.com/live/flashtv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", ULUSAL KANAL- BoRaN  
+https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", ULUSAL KANAL
+http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", ULUSAL KANAL- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/ulusalkanal.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV 5- BoRaN  
+https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV 5
+http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV 5- BoRaN  
+https://diss.tvizlehd.com/live/tv5.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", ÜLKE- BoRaN  
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", ÜLKE
+http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", A HABER- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", A HABER
+http://diss.tvizlehd.com/live/ahaber.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", A HABER
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", A PARA
+http://diss.tvizlehd.com/live/apara.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", A PARA- BoRaN  
+https://livesx.canlitv.center/apara2.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV NET- BoRaN  
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", ,TV NET- BoRaN  
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", BENGÜ TÜRK- BoRaN  
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", BENGÜ TÜRK
+http://iptvmasterlink.dyndns.org:8080/BenguTurk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", BENGÜ TÜRK- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/benguturk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", AKIT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", ARTI TV
+http://iptvmasterlink.dyndns.org:8080/Entry/artitv_yeni/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", YOL TV- BoRaN  
+https://stream.yol.tv:9443/medialive/yol.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TBMM TV- BoRaN  
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TBMM TV TRT3
+http://iptvmasterlink.dyndns.org:8080/Entry/meclistv_yeni/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", CNN TÜRK- BoRaN  
+https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", CNN TÜRK ||- BoRaN  
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", HABER GLOBAL- BoRaN  
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", 24 TV- BoRaN  
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Tv 24- BoRaN  
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", 24 TV 2- BoRaN  
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", AKİT TV- BoRaN  
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮",FİNANS TURK 
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮",İBB TV - BoRaN  
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮",24 HD
 http://91.236.251.194:8000/play/a067
-#EXTINF:-1 group-title="-",24 KITCHEN HD
-http://91.236.251.194:8000/play/a040
-#EXTINF:-1 group-title="-",360 HD
-http://91.236.251.194:8000/play/a068
-#EXTINF:-1 group-title="-",A HABER HD
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮",A HABER HD
 http://91.236.251.194:8000/play/a063
-#EXTINF:-1 group-title="-",A SPOR HD
-http://91.236.251.194:8000/play/a064
-#EXTINF:-1 group-title="-",AKIT TV HD
-http://91.236.251.194:8000/play/a05g
-#EXTINF:-1 group-title="-",ATV HD
-http://91.236.251.194:8000/play/a062
-#EXTINF:-1 group-title="-",BABY TV
-http://91.236.251.194:8000/play/a055
-#EXTINF:-1 group-title="-",BBC EARTH
-http://91.236.251.194:8000/play/a04m
-#EXTINF:-1 group-title="-",BLOOMBERGHT HD
-http://91.236.251.194:8000/play/a05x
-#EXTINF:-1 group-title="-",BOOMERANG HD
-http://91.236.251.194:8000/play/a058
-#EXTINF:-1 group-title="-",CARTOON NETWORK
-http://91.236.251.194:8000/play/a04o
-#EXTINF:-1 group-title="-",CNN TÜRK HD
-http://91.236.251.194:8000/play/a04d
-#EXTINF:-1 group-title="-",DA VINCI LEARNING
-http://91.236.251.194:8000/play/a04r
-#EXTINF:-1 group-title="-",DISCOVERY CHANNEL
-http://91.236.251.194:8000/play/a04y
-#EXTINF:-1 group-title="-",DISCOVERY SCIENCE
-http://91.236.251.194:8000/play/a056
-#EXTINF:-1 group-title="-",DISNEY CHANNEL
-http://91.236.251.194:8000/play/a05c
-#EXTINF:-1 group-title="-",DISNEY JUNIOR
-http://91.236.251.194:8000/play/a03z
-#EXTINF:-1 group-title="-",DMAX HD
-http://91.236.251.194:8000/play/a05p
-#EXTINF:-1 group-title="-",DOCUBOX
-http://91.236.251.194:8000/play/a04t
-#EXTINF:-1 group-title="-",DREAM TÜRK
-http://91.236.251.194:8000/play/a04h
-#EXTINF:-1 group-title="-",DİZİ PREMIUM
-http://91.236.251.194:8000/play/a052
-#EXTINF:-1 group-title="-",DİZİSMART MAX
-http://91.236.251.194:8000/play/a057
-#EXTINF:-1 group-title="-",EUROSPORT 1
-http://91.236.251.194:8000/play/a04f
-#EXTINF:-1 group-title="-",EUROSPORT 2
-http://91.236.251.194:8000/play/a04g
-#EXTINF:-1 group-title="-",FAST & FUN
-http://91.236.251.194:8000/play/a06e
-#EXTINF:-1 group-title="-",FIGHTBOX
-http://91.236.251.194:8000/play/a04v
-#EXTINF:-1 group-title="-",FILMBOX
-http://91.236.251.194:8000/play/a04s
-#EXTINF:-1 group-title="-",FOX CRIME HD
-http://91.236.251.194:8000/play/a03w
-#EXTINF:-1 group-title="-",FOX TV HD
-http://91.236.251.194:8000/play/a05a
-#EXTINF:-1 group-title="-",FX HD
-http://91.236.251.194:8000/play/a03y
-#EXTINF:-1 group-title="-",HABER GLOBAL HD
-http://91.236.251.194:8000/play/a05i
-#EXTINF:-1 group-title="-",HABERTURK HD
-http://91.236.251.194:8000/play/a05w
-#EXTINF:-1 group-title="-",HABİTAT TV HD
-http://91.236.251.194:8000/play/a045
-#EXTINF:-1 group-title="-",INSIGHT TV
-http://91.236.251.194:8000/play/a065
-#EXTINF:-1 group-title="-",KANAL 7 HD
-http://91.236.251.194:8000/play/a049
-#EXTINF:-1 group-title="-",KANAL D HD
-http://91.236.251.194:8000/play/a04c
-#EXTINF:-1 group-title="-",KON TV HD
-http://91.236.251.194:8000/play/a05h
-#EXTINF:-1 group-title="-",KRAL FM
-http://91.236.251.194:8000/play/a05o
-#EXTINF:-1 group-title="-",KRAL POP
-http://91.236.251.194:8000/play/a05n
-#EXTINF:-1 group-title="-",LOVE NATURE
-http://91.236.251.194:8000/play/a04l
-#EXTINF:-1 group-title="-",MILYON TV
-http://91.236.251.194:8000/play/a06a
-#EXTINF:-1 group-title="-",MOVIE CLASSIC
-http://91.236.251.194:8000/play/a053
-#EXTINF:-1 group-title="-",MOVIE PREMIUM
-http://91.236.251.194:8000/play/a04p
-#EXTINF:-1 group-title="-",MOVIE PREMIUM 2
-http://91.236.251.194:8000/play/a04q
-#EXTINF:-1 group-title="-",MOVIE TÜRK
-http://91.236.251.194:8000/play/a054
-#EXTINF:-1 group-title="-",NAT GEO HD
-http://91.236.251.194:8000/play/a03x
-#EXTINF:-1 group-title="-",NAT GEO WILD HD
-http://91.236.251.194:8000/play/a041
-#EXTINF:-1 group-title="-",NBA TV
-http://91.236.251.194:8000/play/a04j
-#EXTINF:-1 group-title="-",NTV HD
-http://91.236.251.194:8000/play/a05m
-#EXTINF:-1 group-title="-",S SPORT
-http://91.236.251.194:8000/play/a051
-#EXTINF:-1 group-title="-",S SPORT2
-http://91.236.251.194:8000/play/a04z
-#EXTINF:-1 group-title="-",SHOW HD
-http://91.236.251.194:8000/play/a05v
-#EXTINF:-1 group-title="-",SHOW MAX HD
-http://91.236.251.194:8000/play/a05y
-#EXTINF:-1 group-title="-",SPORSMART
-http://91.236.251.194:8000/play/a050
-#EXTINF:-1 group-title="-",STAR TV HD
-http://91.236.251.194:8000/play/a05l
-#EXTINF:-1 group-title="-",SİNEMA 1001
-http://91.236.251.194:8000/play/a03s
-#EXTINF:-1 group-title="-",SİNEMA 1002
-http://91.236.251.194:8000/play/a03t
-#EXTINF:-1 group-title="-",SİNEMA 2
-http://91.236.251.194:8000/play/a047
-#EXTINF:-1 group-title="-",SİNEMA AKSİYON
-http://91.236.251.194:8000/play/a044
-#EXTINF:-1 group-title="-",SİNEMA AKSİYON 2
-http://91.236.251.194:8000/play/a03n
-#EXTINF:-1 group-title="-",SİNEMA AİLE
-http://91.236.251.194:8000/play/a03o
-#EXTINF:-1 group-title="-",SİNEMA AİLE 2
-http://91.236.251.194:8000/play/a03p
-#EXTINF:-1 group-title="-",SİNEMA KOMEDİ
-http://91.236.251.194:8000/play/a03q
-#EXTINF:-1 group-title="-",SİNEMA KOMEDİ 2
-http://91.236.251.194:8000/play/a03r
-#EXTINF:-1 group-title="-",SİNEMA TV
-http://91.236.251.194:8000/play/a046
-#EXTINF:-1 group-title="-",TGRT HABER HD
-http://91.236.251.194:8000/play/a05j
-#EXTINF:-1 group-title="-",TLC HD
-http://91.236.251.194:8000/play/a05q
-#EXTINF:-1 group-title="-",TRACE URBAN
-http://91.236.251.194:8000/play/a04u
-#EXTINF:-1 group-title="-",TV 4 HD
-http://91.236.251.194:8000/play/a069
-#EXTINF:-1 group-title="-",TV8 5 HD
-http://91.236.251.194:8000/play/a05t
-#EXTINF:-1 group-title="-",TV8 HD
-http://91.236.251.194:8000/play/a05s
-#EXTINF:-1 group-title="-",TİVİBU SPOR HD
-http://91.236.251.194:8000/play/a043
-#EXTINF:-1 group-title="-",ULKE TV HD
-http://91.236.251.194:8000/play/a04a
-#EXTINF:-1 group-title="-",UÇANKUŞ
-http://91.236.251.194:8000/play/a04i
-#EXTINF:-1 group-title="-",VIASAT HISTORY
-http://91.236.251.194:8000/play/a04w
-#EXTINF:-1 group-title="-",beIN SPORTS HABER HD
-http://91.236.251.194:8000/play/a05e
-#EXTINF:-1 group-title="-",minikaCOCUK
-http://91.236.251.194:8000/play/a060
-#EXTINF:-1 group-title="-",minikaGO
-http://91.236.251.194:8000/play/a061
-#EXTINF:-1 group-title="-",teve2 HD
-http://91.236.251.194:8000/play/a04e
-#EXTINF:-1 group-title="-",ÇOCUKSMART
-http://91.236.251.194:8000/play/a04k
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TGRT Haber - BoRaN  
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TRT Haber (720p)- BoRaN  
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Medya Haber TV (720p)- BoRaN  
+https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Medya Haber TV (480p) 
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/23
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Medya Haber TV (480p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/23.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Ülke TV (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", TV24 (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Finans Turk TV (360p)
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Haber61 TV (720p) - BoRaN  
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Haber61 TV (720p) - BoRaN  
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", DHA (720p) - BoRaN  
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Haber Global (720p) - BoRaN  
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Habertürk TV (720p) - BoRaN  
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Habertürk TV (480p) 
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", Halk TV (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", IBB TV (1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", IBB TV (1080p) - BoRaN  
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", İBB TV (720p)
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ HABER KANALLAR ✰✮", İBB TV 
+rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+
+
+
+#########BELGESEL  KANALLAR########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TGRT Belgesel TV (576p)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TGRT Belgesel TV (576p) - BoRaN  
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TGRT EU (576p)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮",24 KITCHEN HD
+http://91.236.251.194:8000/play/a040
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", YABAN TV- BoRaN  
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", YABAN TV
+http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TRT BELGESEL- BoRaN  
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TRT 2- BoRaN  
+https://diss.tvizlehd.com/live/trt2.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TRT 2- BoRaN  
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", BIZIM EV TV- BoRaN  
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", BIZIM EV TV- BoRaN  
+https://livesx.canlitv.center/bizimevtv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", HABITAT TV- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/habibattv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", HABITAT TV- BoRaN  
+https://diss.tvizlehd.com/live/habitattv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", D MAX- BoRaN  
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", D MAX- BoRaN  
+https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", D MAX
+http://iptvmasterlink.dyndns.org:8080/Entry/dmaxhd_yeni/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TLC TR- BoRaN  
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TLC TR- BoRaN  
+https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TLC TR- BoRaN  
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TGRT BELGESEL- BoRaN  
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TGRT BELGESEL- BoRaN  
+https://59c7ea6bec1c6.streamlock.net/filbox/tgrtbelgesel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ BELGESEL KANALLAR ✰✮", TGRT BELGESEL
+http://iptvmasterlink.dyndns.org:8080/TgrtBelgesel/playlist.m3u8
+
+######### ✰✮ MOBESE CANLI ✰✮ #########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MOBESE CANLI ✰✮",İST. HALİÇ KÖPRÜ 
+http://ibb-media4.ibb.gov.tr:1935/live/148.stream/chunklist_w599656335.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MOBESE CANLI ✰✮",İST. AYVANSARAY 
+http://ibb-media1.ibb.gov.tr:1935/live/194.stream/chunklist_w1604150107.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MOBESE CANLI ✰✮",İST. BAĞCILAR 
+http://ibb-media2.ibb.gov.tr:1935/live/659.stream/chunklist_w354579030.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MOBESE CANLI ✰✮",BAĞDAT CAD 
+http://ibb-media4.ibb.gov.tr:1935/live/17.stream/chunklist_w1687748545.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MOBESE CANLI ✰✮",ŞİRİNEVLER 
+http://ibb-media1.ibb.gov.tr:1935/live/161.stream/chunklist_w1545006697.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MOBESE CANLI ✰✮",FSM KÖPRÜSÜ 
+http://ibb-media1.ibb.gov.tr:1935/live/338.stream/chunklist_w1567376213.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ MOBESE CANLI ✰✮", İST. YEDİKULE 
+http://ibb-media1.ibb.gov.tr:1935/live/273.stream/chunklist_w667660429.m3u8
+
+
+
+##########YEREL KANALLAR############
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮",GÜNEYDOĞU TV - BoRaN  
+https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", AFYON TÜRK- BoRaN  
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", AA CANLI
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", AKSU TV- BoRaN  
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", AL ZAHRA TV- BoRaN  
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", ALANYA POSTASI 
+http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", ALANYA TV
+http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", BENGUTURK- BoRaN  
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Berat TV (720p) 
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Beşiktaş Web TV (360p)- BoRaN  
+https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Bodrum Belediyesi Web TV (720p)- BoRaN  
+https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", BRTV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Bursa AS TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Bursa TV (720p) - BoRaN  
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Bursa TV (720p) - BoRaN  
+https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Can TV (720p)
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Can TV (720p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/105.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", CAN TV (720p) 
+http://176.10.117.18:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Cay TV (720p) 
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Cekmeköy TV (1080p)- BoRaN  
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Cem TV (576p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/104.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Çiftçi TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Çiftçi TV (270p) 
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Çiftçi TV (720p) - BoRaN  
+https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Cine5 TV (720p) - BoRaN  
+https://host.onlineradyotv.net:1936/cine5/cine5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", CRI Türk Belgesel (480p) 
+http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Deha TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Deni̇z Postasi TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Deniz Postası TV (720p) 
+http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Dersim62 TV (720p)
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", DİM TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Diyanet TV (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", DRT TV (720p) - BoRaN  
+https://broadcasttr.com:446/drt/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Ege Türk TV (360p)- BoRaN  
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Ege TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Elmas TV (720p) - BoRaN  
+https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Em TV (486p)- BoRaN  
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Er TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Ert Sah TV (720p) 
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Erzurum Web TV (720p)- BoRaN  
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", ETV Manisa (1080p) - BoRaN  
+https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Euro 90 Channel (1080p) - BoRaN  
+https://ssl4.radyotvonline.com/e90tv/e90tvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Euro Genc (1080p) - BoRaN  
+https://dcunilive258-lh.akamaihd.net/i/dclive_1@126972/master.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Gaziantep Olay Tv (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/olaytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Genç TV (720p) 
+http://kuzeykibris.tv/m3u8/tv_genc.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Gonca TV - BoRaN  
+https://broadcasttr.com:446/tuncerciftci/smil:tuncerciftci.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", GRT (720p)- BoRaN  
+https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", GRT Gaziantep (720p) 
+http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", GSTV - BoRaN  
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Güneş TV Kibris (720p) 
+http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Guney TV Tarsus (270p) 
+http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Guneydoğu TV (480p) 
+http://stream2.taksimbilisim.com:1935/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Guneydoğu TV (480p) - BoRaN  
+https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Hunat TV (480p)- BoRaN  
+https://waw2.artiyerelmedya.net/hunattv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Hunat TV (480p) - BoRaN  
+https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Icel TV (720p) 
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Icel TV (720p) - BoRaN  
+https://broadcasttr.com:446/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 3 (720p) 
+http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 3 (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 12 (720p) - BoRaN  
+https://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 15 (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 23 (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 26 (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 32 (720p) - BoRaN  
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 33 (720p) 
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 34 (720p)
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 34 (720p)- BoRaN  
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 38 (576p) 
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", KANAL 58 (1080p) - BoRaN  
+https://broadcasttr.com:446/kanal58/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal 68 (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal Avrupa (1080p)
+http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal B (480p) 
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal Firat (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal T (720p) 
+http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal Urfa (576p) - BoRaN  
+https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal V (720p) 
+http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kanal Z (720p)- BoRaN  
+https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kardelen TV 
+http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kay TV (720p)- BoRaN  
+https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kay TV (256p) 
+http://yayin3.canlitv.com:1935/canlitv/kaytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kent Türk (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", KRT TV (1080p) 
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kudüs TV (480p) - BoRaN  
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Kudüs TV (480p) 
+http://yayin10.canliyayin.org/P981680400/kudustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Lalegül TV (720p)
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Lalegül TV (720p)
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Line TV (404p) - BoRaN  
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Luys TV 
+http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Mar TV (480p) 
+http://marmaratv.canliyayin.org/P324353563/marmaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Marmara TV (480p) - BoRaN  
+https://yayin.marmaratv.com.tr/P324353563/marmaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", MaviKaradeniz (720p) 
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", MaviKaradeniz (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Med Müzik TV (720p) 
+http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Med Müzik TV (480p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Mercan TV (720p) 
+http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Mercan TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Meteoroloji TV (1080p)- BoRaN  
+https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Milyon TV (720p) - BoRaN  
+https://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Misk FM (720p) 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCrvsAwtrxZ0q31yU9JEBdWA/live
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", MSBC Kanal 2000 (360p) - BoRaN  
+https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Natural TV (1080p) 
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Natural TV (1080p) - BoRaN  
+https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", NTV (480p) 
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Ogün TV (360p)- BoRaN  
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Olay Türk TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", OlayTürk Kayseri (720p) 
+http://waw1.artiyerelmedya.net:1935/olayturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", On4 TV (1080p)
+http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", ON Medya Haber (720p) 
+http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Öncü TV (720p) - BoRaN  
+https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Power Turk (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Power Turk (1080p) - BoRaN  
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Power TV (1080p)- BoRaN  
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", PowerTürk TV (1080p) - BoRaN  
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Rehber TV (720p) 
+http://rehbertv.canliyayin.org/P871000884/rehbertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Şaban TV (720p) 
+http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Samsun Canli Haber TV (720p) - BoRaN  
+https://cdn-samsuncanlihabertv.yayin.com.tr/samsuncanlihabertv/samsuncanlihabertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sarıyer TV (360p)
+http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sat7 Pars (720p)- BoRaN  
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sat7 Türk (720p)- BoRaN  
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Satranç TV (480p) 
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Semerkand TV (720p) - BoRaN  
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Show TV (720p) - BoRaN  
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sinema 1001 (1080p) 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/8b8823ce5525d9b.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sinop Yildiz TV (360p)- BoRaN  
+https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sports TV (720p) - BoRaN  
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sterk TV (480p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Sun RTV (720p) - BoRaN  
+https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Tarsus Güney TV (270p) 
+http://stream.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Tay TV (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", teve2 (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Thaqalayn TV (720p) - BoRaN  
+https://live.thaqalayn.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Ton TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Toprak TV (720p) - BoRaN  
+https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Torba TV (720p) - BoRaN  
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TR24 TV (720p)- BoRaN  
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 35 (720p) - BoRaN  
+https://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 38 (360p) - BoRaN  
+https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 41 (720p) - BoRaN  
+https://waw1.artiyerelmedya.net/tv41/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 41 (720p) 
+http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 41 (720p) 
+http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV41 (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 41 (270p) 
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 52 (720p) - BoRaN  
+https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV 52 (270p) 
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", TV Den (576p) 
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", UçanKuş TV (720p)- BoRaN  
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", UçanKuş TV (720p) - BoRaN  
+https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Üniversite TV (720p) - BoRaN  
+https://5be5d840359c6.streamlock.net/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", ÜÜ TV Üsküdar Üniversitesi TV (1080p)
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Vizyon 58 TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", VTV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Vuslat TV (720p) 
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Vuslat TV (720p) 
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Vuslat TV (720p) - BoRaN  
+https://59cba4d34b678.streamlock.net/live/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Vuslat TV (720p) - BoRaN  
+https://waw2.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ YEREL KANALLAR ✰✮", Yol TV (720p) 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/107.m3u8
+
+#########✰✮ TURK PORTAL 1 ✰✮########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 1✰✮", TRT- BoRaN  
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+
+
+#########✰✮ TURK PORTAL 2 ✰✮########
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 2 ✰✮", TRT- BoRaN  
+http://iptvh.it/sporligtv.m3u8
+

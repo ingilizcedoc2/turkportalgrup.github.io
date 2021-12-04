@@ -311,6 +311,8 @@ https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
 #########✰✮ SPOR KANALLAR ✰✮########
 #EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮", RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮",BEİN ÖZEL YAYIN
+https://c6.izletv.xyz/web/1/www.sestv.xyz/c3/1638644257/BwAw2ddraxzfpEn3DKOtGw/11044.m3u8
 #EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮",SPORT TV TÜRKMEN
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ SPOR KANALLAR ✰✮",SPORTS TV TÜRK- BoRaN  

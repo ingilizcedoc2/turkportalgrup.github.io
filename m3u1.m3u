@@ -1,42 +1,749 @@
 #EXTM3U
-#########✰✮ ULUSAL KANALLAR ✰✮########
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", RELAX
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1- BoRaN  
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1- BoRaN  
-https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR- BoRaN  
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR- BoRaN  
-https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D- BoRaN  
-https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", KANAL D- BoRaN  
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW- BoRaN  
-https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", SHOW- BoRaN  
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", FOX- BoRaN  
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", FOX- BoRaN  
-https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV- BoRaN  
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", ATV- BoRaN  
-https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)- BoRaN  
-https://blutv-test-live.ercdn.net/test/trt1.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)
-http://93.157.62.180/TRT1/index.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)- BoRaN  
-https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", TRT 1 (backup)
-http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR (backup)- BoRaN  
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR (backup)- BoRaN  
-https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ ULUSAL KANALLAR ✰✮", STAR (backup)
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202721.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202720.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SHOW HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SHOW HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202719.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL D HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL D HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202718.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ATV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ATV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202717.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| STAR HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| STAR HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202716.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FOX HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| FOX HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202715.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEYAZ HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEYAZ HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202714.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 8 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202713.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8.5 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 8.5 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202712.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 7 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL 7 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202711.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 4K" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT 4K
+http://rv.flysat.live:80/live/307202675437/307202675437/202710.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 1 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT 1 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202709.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 2 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT 2 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202708.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SHOW UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SHOW UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202707.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL D UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL D UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202706.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ATV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ATV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202705.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| STAR UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| STAR UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202704.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FOX UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| FOX UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202703.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEYAZ UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEYAZ UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202702.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 8 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202701.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8.5 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 8.5 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202700.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 7 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL 7 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202699.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 360 TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| 360 TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202698.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DMAX UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DMAX UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202697.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A2 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| A2 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202696.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TEVE 2 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TEVE 2 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202695.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SHOW MAX" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SHOW MAX
+http://rv.flysat.live:80/live/307202675437/307202675437/202694.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 4K+" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT 4K+
+http://rv.flysat.live:80/live/307202675437/307202675437/202693.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YABAN TV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| YABAN TV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202692.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR|  HRT AKDENIZ TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR|  HRT AKDENIZ TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202691.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| RUMELI TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| RUMELI TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202690.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DRT DENIZLI" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DRT DENIZLI
+http://rv.flysat.live:80/live/307202675437/307202675437/202689.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EKOTURK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EKOTURK
+http://rv.flysat.live:80/live/307202675437/307202675437/202688.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| DINI #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| DINI #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202687.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AKIT TV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| AKIT TV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202686.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| REHBER TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| REHBER TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202685.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LALEGUL TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| LALEGUL TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202684.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ON 4 TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ON 4 TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202683.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SEMERKAND TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SEMERKAND TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202682.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DOST TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DOST TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202681.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AL QURAN TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| AL QURAN TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202680.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KABE TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KABE TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202679.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| HABERLER #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| HABERLER #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202678.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT HABER UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT HABER UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202677.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CNN TURK UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| CNN TURK UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202676.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NTV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NTV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202675.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 24 HABER UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| 24 HABER UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202674.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HABER GLOBAL UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| HABER GLOBAL UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202673.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EKO TURK TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EKO TURK TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202672.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV NET UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV NET UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202671.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ULKE TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ULKE TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202670.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A HABER UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| A HABER UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202669.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AKIT TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| AKIT TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202668.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KOY TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KOY TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202667.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BLOOMBERG HT UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BLOOMBERG HT UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202666.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A PARA UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| A PARA UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202665.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT WORLD UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT WORLD UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202664.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A NEWS UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| A NEWS UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202663.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ULUSAL KANAL" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ULUSAL KANAL
+http://rv.flysat.live:80/live/307202675437/307202675437/202662.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HALK TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| HALK TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202661.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT HABER UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TGRT HABER UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202660.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TELE 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TELE 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202659.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| UZAY HABER" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| UZAY HABER
+http://rv.flysat.live:80/live/307202675437/307202675437/202658.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL B" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL B
+http://rv.flysat.live:80/live/307202675437/307202675437/202657.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRT UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KRT UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202656.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HABER TURK UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| HABER TURK UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202655.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YOL TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| YOL TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202654.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CAN TV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| CAN TV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202653.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MC EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MC EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202652.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ARTI TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ARTI TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202651.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 100 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 100 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202650.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| BELGESELLER #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| BELGESELLER #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202649.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT BELGESEL UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT BELGESEL UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202648.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT BELGESEL" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TGRT BELGESEL
+http://rv.flysat.live:80/live/307202675437/307202675437/202647.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DISCOVERY CHANNEL HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DISCOVERY CHANNEL HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202646.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DISCOVERY SCIENCE HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DISCOVERY SCIENCE HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202645.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NGC HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NGC HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202644.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NGC WILD HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NGC WILD HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202643.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HISTORY CHANNEL HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| HISTORY CHANNEL HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202642.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMAL PLANET HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ANIMAL PLANET HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202641.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TLC UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TLC UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202640.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN GURME HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN GURME HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202639.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN IZ HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN IZ HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202638.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ID TR HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ID TR HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202637.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| VIASAT HISTORY HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| VIASAT HISTORY HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202636.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DOCUBOX HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DOCUBOX HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202635.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DISCOVERY SHOWCASE HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DISCOVERY SHOWCASE HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202634.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| OUTDOOR SMART HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| OUTDOOR SMART HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202633.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FAST FUN HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| FAST FUN HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202632.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DTX TR HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DTX TR HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202631.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DA VINCI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DA VINCI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202630.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| D MAX HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| D MAX HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202629.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BBC EARTH HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BBC EARTH HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202628.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR|  24 KITCHEN HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR|  24 KITCHEN HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202627.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| COCUKLAR #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| COCUKLAR #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202626.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT COCUK UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT COCUK UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202625.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MINIKA GO" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MINIKA GO
+http://rv.flysat.live:80/live/307202675437/307202675437/202624.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MINIKA COCUK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MINIKA COCUK
+http://rv.flysat.live:80/live/307202675437/307202675437/202623.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NICK JR" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NICK JR
+http://rv.flysat.live:80/live/307202675437/307202675437/202622.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NICKELODEON HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NICKELODEON HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202621.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR|  DISNEY XD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR|  DISNEY XD
+http://rv.flysat.live:80/live/307202675437/307202675437/202620.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR|  DISNEY JR HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR|  DISNEY JR HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202619.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DISNEY CHANNEL" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DISNEY CHANNEL
+http://rv.flysat.live:80/live/307202675437/307202675437/202618.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CARTOON NETWORK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| CARTOON NETWORK
+http://rv.flysat.live:80/live/307202675437/307202675437/202617.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOOMERANG HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOOMERANG HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202616.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BABY TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BABY TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202615.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TOM VE JERRY" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TOM VE JERRY
+http://rv.flysat.live:80/live/307202675437/307202675437/202614.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NILOYA TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NILOYA TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202613.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT EBA TV HD ILKOKUL" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT EBA TV HD ILKOKUL
+http://rv.flysat.live:80/live/307202675437/307202675437/202612.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT EBA TV HD ORTAOKUL" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT EBA TV HD ORTAOKUL
+http://rv.flysat.live:80/live/307202675437/307202675437/202611.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT EBA TV HD LISE" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT EBA TV HD LISE
+http://rv.flysat.live:80/live/307202675437/307202675437/202610.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| MUZIK #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| MUZIK #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202609.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT MUZIK UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT MUZIK UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202608.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NR 1 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NR 1 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202607.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NR 1 TURK UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NR 1 TURK UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202606.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRAL TV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KRAL TV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202605.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRAL POP HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KRAL POP HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202604.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRAL PERFORMANS TV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KRAL PERFORMANS TV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202603.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| POWER UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| POWER UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202602.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| POWER TURK UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| POWER TURK UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202601.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DREAM TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DREAM TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202600.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DREAM TURK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DREAM TURK
+http://rv.flysat.live:80/live/307202675437/307202675437/202599.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAVI KARADENIZ TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MAVI KARADENIZ TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202598.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| VATAN TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| VATAN TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202597.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MILYON TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MILYON TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202596.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DEM TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DEM TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202595.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| AVRUPA #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| AVRUPA #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202594.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ATV EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ATV EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202593.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EURO D EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EURO D EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202592.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EURO STAR EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EURO STAR EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202591.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 7 EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL 7 EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202590.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8 INT EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 8 INT EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202589.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SHOW TURK EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SHOW TURK EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202588.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TGRT EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202587.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL AVRUPA EU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL AVRUPA EU
+http://rv.flysat.live:80/live/307202675437/307202675437/202586.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| DGIR #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| DGIR #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202585.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DIYANET TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DIYANET TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202584.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT TURK UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT TURK UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202583.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT AVAZ UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT AVAZ UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202582.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BENGU TURK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BENGU TURK
+http://rv.flysat.live:80/live/307202675437/307202675437/202581.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CEM TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| CEM TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202580.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YILDIZ EN" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| YILDIZ EN
+http://rv.flysat.live:80/live/307202675437/307202675437/202579.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KON TV KONYA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KON TV KONYA
+http://rv.flysat.live:80/live/307202675437/307202675437/202578.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 42 KONYA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL 42 KONYA
+http://rv.flysat.live:80/live/307202675437/307202675437/202577.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| UCAN KUS TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| UCAN KUS TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202576.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MELTEM TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MELTEM TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202575.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 4 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 4 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202574.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 5" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 5
+http://rv.flysat.live:80/live/307202675437/307202675437/202573.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AKILLI TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| AKILLI TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202572.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KUDUS TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KUDUS TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202571.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV KAYSERI" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV KAYSERI
+http://rv.flysat.live:80/live/307202675437/307202675437/202570.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 1 KAYSERI" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TV 1 KAYSERI
+http://rv.flysat.live:80/live/307202675437/307202675437/202569.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ALTAS TV ORDU" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ALTAS TV ORDU
+http://rv.flysat.live:80/live/307202675437/307202675437/202568.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CAY TV RIZE" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| CAY TV RIZE
+http://rv.flysat.live:80/live/307202675437/307202675437/202567.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CIFT TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| CIFT TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202566.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DRT DENIZLI TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DRT DENIZLI TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202565.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL FIRAT ELAZIG" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL FIRAT ELAZIG
+http://rv.flysat.live:80/live/307202675437/307202675437/202564.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL URFA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL URFA
+http://rv.flysat.live:80/live/307202675437/307202675437/202563.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| PAMUKKALE TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| PAMUKKALE TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202562.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 3 ISPARTA HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL 3 ISPARTA HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202561.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL V ANTALYA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL V ANTALYA
+http://rv.flysat.live:80/live/307202675437/307202675437/202560.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KOZA TV ADANA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KOZA TV ADANA
+http://rv.flysat.live:80/live/307202675437/307202675437/202559.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| VIZYON 58 SIVAS" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| VIZYON 58 SIVAS
+http://rv.flysat.live:80/live/307202675437/307202675437/202558.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TURKMENELI TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TURKMENELI TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202557.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TEK RUMELI TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TEK RUMELI TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202556.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| GTV TV SANLIURFA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| GTV TV SANLIURFA
+http://rv.flysat.live:80/live/307202675437/307202675437/202555.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KENT TURK TV KAYSERA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KENT TURK TV KAYSERA
+http://rv.flysat.live:80/live/307202675437/307202675437/202554.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TVDEN AYDIN" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TVDEN AYDIN
+http://rv.flysat.live:80/live/307202675437/307202675437/202553.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TVO" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TVO
+http://rv.flysat.live:80/live/307202675437/307202675437/202552.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 32 ISPARTA HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL 32 ISPARTA HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202551.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 1 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BRT 1 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202550.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 2 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BRT 2 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202549.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KIBRIS TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KIBRIS TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202548.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KIBRIS TV ADA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KIBRIS TV ADA
+http://rv.flysat.live:80/live/307202675437/307202675437/202547.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL T KIBRIS" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL T KIBRIS
+http://rv.flysat.live:80/live/307202675437/307202675437/202546.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KIBRIS GENC TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KIBRIS GENC TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202545.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR|  SRT SIVAS" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR|  SRT SIVAS
+http://rv.flysat.live:80/live/307202675437/307202675437/202544.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AVA TV UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| AVA TV UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202543.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 68" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KANAL 68
+http://rv.flysat.live:80/live/307202675437/307202675437/202542.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KARDELEN TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KARDELEN TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202541.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| FILMLER #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| FILMLER #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202540.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE PREMIUM HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE PREMIUM HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202539.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE PREMIUM 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE PREMIUM 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202538.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE PLATIN HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE PLATIN HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202537.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE PLATIN 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE PLATIN 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202536.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE FAMILY HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE FAMILY HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202535.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE FEST HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE FEST HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202534.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE GOLD HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE GOLD HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202533.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE CLASSIC HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE CLASSIC HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202532.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE ACTION HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE ACTION HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202531.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE TURK HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MOVIE TURK HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202530.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DiZi PREMIUM HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DiZi PREMIUM HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202529.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DIZISMART MAX HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| DIZISMART MAX HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202528.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FX HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| FX HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202527.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| BEIN MOVIES #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| BEIN MOVIES #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202526.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES ACTION HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MOVIES ACTION HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202525.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES ACTION 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MOVIES ACTION 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202524.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES FAMILY HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MOVIES FAMILY HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202523.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES PREMIER HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MOVIES PREMIER HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202522.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES PREMIER 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MOVIES PREMIER 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202521.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES STARS HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MOVIES STARS HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202520.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MOVIES TURK HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MOVIES TURK HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202519.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES COMEDY HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SERIES COMEDY HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202518.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES DRAMA HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SERIES DRAMA HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202517.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES SCI-FI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SERIES SCI-FI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202516.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SERIES VICE HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SERIES VICE HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202515.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN BOX OFFICE 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202514.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN BOX OFFICE 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202513.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN BOX OFFICE 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN BOX OFFICE 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202512.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| LOCA MOVIES #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| LOCA MOVIES #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202511.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| METROPOL TURK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| METROPOL TURK
+http://rv.flysat.live:80/live/307202675437/307202675437/202510.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| METROPOL NETFLIX" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| METROPOL NETFLIX
+http://rv.flysat.live:80/live/307202675437/307202675437/202509.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| METROPOL KUKULI" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| METROPOL KUKULI
+http://rv.flysat.live:80/live/307202675437/307202675437/202508.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| METROPOL KARE" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| METROPOL KARE
+http://rv.flysat.live:80/live/307202675437/307202675437/202507.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| METROPOL ANKARA" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| METROPOL ANKARA
+http://rv.flysat.live:80/live/307202675437/307202675437/202506.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| METROPOL AKILLI TAVSAN MOMO" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| METROPOL AKILLI TAVSAN MOMO
+http://rv.flysat.live:80/live/307202675437/307202675437/202505.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT YESILCAM   3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT YESILCAM   3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202504.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SMART TURK HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SMART TURK HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202503.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SMART GOLD HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SMART GOLD HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202502.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SMART FEST HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SMART FEST HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202501.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SMART FAMILY HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SMART FAMILY HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202500.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SMART ACTION HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SMART ACTION HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202499.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA YERLI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA YERLI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202498.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA YERLI 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA YERLI 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202497.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA TV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA TV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202496.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA TV 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA TV 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202495.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA KOMEDI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA KOMEDI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202494.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA KOMEDI 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA KOMEDI 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202493.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA AKSIYON HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA AKSIYON HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202492.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA AKSIYON 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA AKSIYON 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202491.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA AILE HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA AILE HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202490.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT SINEMA AILE 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT SINEMA AILE 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202489.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT POP" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT POP
+http://rv.flysat.live:80/live/307202675437/307202675437/202488.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT NILOYA TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT NILOYA TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202487.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT NETFLIX 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT NETFLIX 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202486.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT NETFLIX 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT NETFLIX 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202485.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT NETFLIX 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT NETFLIX 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202484.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT MOVIES PREMIER HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT MOVIES PREMIER HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202483.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT MOVIES PREMIER 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT MOVIES PREMIER 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202482.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT MOVIES FESTIVAL HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT MOVIES FESTIVAL HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202481.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT MOVIES FAMILIY HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT MOVIES FAMILIY HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202480.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT MASA ILE KOCA AYI" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT MASA ILE KOCA AYI
+http://rv.flysat.live:80/live/307202675437/307202675437/202479.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT KEMAL SUNAL" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT KEMAL SUNAL
+http://rv.flysat.live:80/live/307202675437/307202675437/202478.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT HD COCUK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT HD COCUK
+http://rv.flysat.live:80/live/307202675437/307202675437/202477.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT HD ANIMASYON 3" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT HD ANIMASYON 3
+http://rv.flysat.live:80/live/307202675437/307202675437/202476.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT HD ANIMASYON 2" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT HD ANIMASYON 2
+http://rv.flysat.live:80/live/307202675437/307202675437/202475.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT HD ANIMASYON 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT HD ANIMASYON 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202474.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT BOX OFFICE 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT BOX OFFICE 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202473.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT BOX OFFICE 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT BOX OFFICE 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202472.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT BOX OFFICE 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT BOX OFFICE 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202471.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT ARABESK" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT ARABESK
+http://rv.flysat.live:80/live/307202675437/307202675437/202470.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT ANKARA  HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT ANKARA  HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202469.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ELIT AKILLI TAVSAN MOMO" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ELIT AKILLI TAVSAN MOMO
+http://rv.flysat.live:80/live/307202675437/307202675437/202468.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| LOCA 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202467.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| LOCA 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202466.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LOCA 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| LOCA 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202465.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202464.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 2" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 2
+http://rv.flysat.live:80/live/307202675437/307202675437/202463.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 3" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 3
+http://rv.flysat.live:80/live/307202675437/307202675437/202462.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 4" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 4
+http://rv.flysat.live:80/live/307202675437/307202675437/202461.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 5" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 5
+http://rv.flysat.live:80/live/307202675437/307202675437/202460.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 6" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 6
+http://rv.flysat.live:80/live/307202675437/307202675437/202459.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 7" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 7
+http://rv.flysat.live:80/live/307202675437/307202675437/202458.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV MIX 10" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV MIX 10
+http://rv.flysat.live:80/live/307202675437/307202675437/202457.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV KORKU 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV KORKU 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202456.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV KOMEDI 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV KOMEDI 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202455.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV DRAMA 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV DRAMA 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202454.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV WESTERN" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV WESTERN
+http://rv.flysat.live:80/live/307202675437/307202675437/202453.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV BILIMKURGU 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV BILIMKURGU 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202452.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV ANIMASYON 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV ANIMASYON 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202451.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV AKSIYON 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV AKSIYON 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202450.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV AKSIYON 2" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV AKSIYON 2
+http://rv.flysat.live:80/live/307202675437/307202675437/202449.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV AKSIYON 3" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV AKSIYON 3
+http://rv.flysat.live:80/live/307202675437/307202675437/202448.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV AKSIYON 4" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV AKSIYON 4
+http://rv.flysat.live:80/live/307202675437/307202675437/202447.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV TURK SINEMA 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV TURK SINEMA 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202446.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV TURK SINEMA 2" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV TURK SINEMA 2
+http://rv.flysat.live:80/live/307202675437/307202675437/202445.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV TURK SINEMA 3" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV TURK SINEMA 3
+http://rv.flysat.live:80/live/307202675437/307202675437/202444.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV TURK SINEMA 4" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV TURK SINEMA 4
+http://rv.flysat.live:80/live/307202675437/307202675437/202443.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MEDOTV TURK SINEMA 5" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| MEDOTV TURK SINEMA 5
+http://rv.flysat.live:80/live/307202675437/307202675437/202442.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YESIL SINEMA TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| YESIL SINEMA TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202441.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO TURK 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO TURK 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202440.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ANIMASYON" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO ANIMASYON
+http://rv.flysat.live:80/live/307202675437/307202675437/202439.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO WESTERN" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO WESTERN
+http://rv.flysat.live:80/live/307202675437/307202675437/202438.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 1" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 1
+http://rv.flysat.live:80/live/307202675437/307202675437/202437.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 2" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 2
+http://rv.flysat.live:80/live/307202675437/307202675437/202436.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 3" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 3
+http://rv.flysat.live:80/live/307202675437/307202675437/202435.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 4" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 4
+http://rv.flysat.live:80/live/307202675437/307202675437/202434.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 5" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 5
+http://rv.flysat.live:80/live/307202675437/307202675437/202433.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 6" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 6
+http://rv.flysat.live:80/live/307202675437/307202675437/202432.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 7" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 7
+http://rv.flysat.live:80/live/307202675437/307202675437/202431.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 8" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 8
+http://rv.flysat.live:80/live/307202675437/307202675437/202430.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 9" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 9
+http://rv.flysat.live:80/live/307202675437/307202675437/202429.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 10" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 10
+http://rv.flysat.live:80/live/307202675437/307202675437/202428.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 11" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 11
+http://rv.flysat.live:80/live/307202675437/307202675437/202427.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 12" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 12
+http://rv.flysat.live:80/live/307202675437/307202675437/202426.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 13" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 13
+http://rv.flysat.live:80/live/307202675437/307202675437/202425.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 14" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 14
+http://rv.flysat.live:80/live/307202675437/307202675437/202424.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO VIZYON 15" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| ENO VIZYON 15
+http://rv.flysat.live:80/live/307202675437/307202675437/202423.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202422.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202421.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202420.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 4 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 4 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202419.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 5 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 5 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202418.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 6 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 6 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202417.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 7 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 7 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202416.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 8 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 8 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202415.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 9 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 9 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202414.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 10 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES 10 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202413.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES KEMAL SUNAL" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BOSS MOVIES KEMAL SUNAL
+http://rv.flysat.live:80/live/307202675437/307202675437/202412.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| JUMBO MOVIES #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| JUMBO MOVIES #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202411.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV MACERA HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV MACERA HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202410.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV KORKU HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV KORKU HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202409.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BLACK TV ANIMAYON HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BLACK TV ANIMAYON HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202408.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV KOMEDI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV KOMEDI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202407.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV GERILIM HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV GERILIM HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202406.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV FANTASTIK HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV FANTASTIK HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202405.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV DRAM HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV DRAM HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202404.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV COCUK HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV COCUK HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202403.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV BIYOGRAFI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV BIYOGRAFI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202402.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV BILIM-KURGU HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV BILIM-KURGU HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202401.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV AKSIYON HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV AKSIYON HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202400.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV TURK HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV TURK HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202399.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV YESILCAM HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV YESILCAM HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202398.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV SAVAS HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV SAVAS HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202397.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV SPOR HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV SPOR HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202396.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| JUMBOTV WESTERN HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| JUMBOTV WESTERN HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202395.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| SINEMA MOVIE #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| SINEMA MOVIE #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202394.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TV YERLI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SINEMA TV YERLI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202393.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TV YERLI 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SINEMA TV YERLI 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202392.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TV KOMEDI HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SINEMA TV KOMEDI HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202391.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TV HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SINEMA TV HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202390.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TV 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SINEMA TV 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202389.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TV AILE 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SINEMA TV AILE 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202388.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TV ACTION HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SINEMA TV ACTION HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202387.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KEMAL SUNAL TV 4K" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| KEMAL SUNAL TV 4K
+http://rv.flysat.live:80/live/307202675437/307202675437/202386.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |TR| SPOR #####" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",##### |TR| SPOR #####
+http://rv.flysat.live:80/live/307202675437/307202675437/202385.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPORT 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EXXEN SPORT 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202384.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPORT 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EXXEN SPORT 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202383.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPORT 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EXXEN SPORT 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202382.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202381.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202380.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202379.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 4 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202378.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEINSPORTS 1 SD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEINSPORTS 1 SD
+http://rv.flysat.live:80/live/307202675437/307202675437/202377.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEINSPORTS 1 HD (50fps 1920x1080)" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEINSPORTS 1 HD (50fps 1920x1080)
+http://rv.flysat.live:80/live/307202675437/307202675437/202376.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 1 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202375.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 2 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 2 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202374.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 3 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 3 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202373.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4 UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS 4 UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202372.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MAX 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MAX 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202371.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN MAX 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN MAX 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202370.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS HABER UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BEIN SPORTS HABER UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202369.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SPOR SMART HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SPOR SMART HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202368.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SPORTS TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SPORTS TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202367.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SARAN SPORT HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SARAN SPORT HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202366.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SARAN SPORT 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| SARAN SPORT 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202365.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TIVIBU SPOR UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202364.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TIVIBU SPOR 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202363.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TIVIBU SPOR 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202362.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 3 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TIVIBU SPOR 3 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202361.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TAY TV HD PLUS" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TAY TV HD PLUS
+http://rv.flysat.live:80/live/307202675437/307202675437/202360.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT SPOR HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT SPOR HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202359.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT SPOR UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT SPOR UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202358.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A SPOR HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| A SPOR HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202357.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A SPOR UHD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| A SPOR UHD
+http://rv.flysat.live:80/live/307202675437/307202675437/202356.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT SPOR 2 HD+" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| TRT SPOR 2 HD+
+http://rv.flysat.live:80/live/307202675437/307202675437/202355.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| GS TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202354.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FB TV HD PLUS" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| FB TV HD PLUS
+http://rv.flysat.live:80/live/307202675437/307202675437/202353.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BJK TV" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| BJK TV
+http://rv.flysat.live:80/live/307202675437/307202675437/202352.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EUROSPORT 1 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EUROSPORT 1 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202351.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EUROSPORT 2 HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| EUROSPORT 2 HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202350.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NBA HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| NBA HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202349.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FIGHT BOX HD" tvg-logo="https://turkportalgrup.github.io/boran.jpg" group-title="✰✮ TÜRKPORTAL 4 ✰✮",|TR| FIGHT BOX HD
+http://rv.flysat.live:80/live/307202675437/307202675437/202348

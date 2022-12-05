@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="mukerrer liste silme">
+<meta name="keywords" content="mükerrer silme">
+<title>TÜRK PORTAL GRUP</title>
+<link rel="canonical" />
+<style>body,html{height:auto;font-family:"tahoma",sans-serif;font-size:14px;color:#666;margin:0;padding:0}#noticeBox{margin:0 0 20px 0}body{margin:0;padding:0}#container{width:75%;margin:0 auto}.clear{clear:both;font-size:1px;height:1px}img{border:0}a,a:visited{color:#d50065;text-decoration:none}a:active,a:hover{text-decoration:underline}.button{background-color:#d50065;border:none;color:#eee;padding:10px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:4px;cursor:pointer;font-weight:bold}label{cursor:pointer}h1{color:#333}h2{color:#7e07a9;font-size:14px;display:inline;padding-right:6px}h3{color:#d50065;font-size:14px;display:inline;padding-right:6px}hr{color:#fff;background:#fff;border:1px dotted #333;border-style:none none dotted}#hdr{width:100%;height:130px}#hdr #logo{float:left;padding:0 0 0 18px}#hdr #topAd{float:right;padding:9px 20px 0 0}#nav{position:relative;padding:0;margin:0}#nav ul{width:auto;height:34px;padding:0 0 0 18px;margin:0;list-style:none}#nav ul li{display:inline}#nav ul li a.home,#nav ul li a.home:visited{float:left;width:96px;height:34px;padding:0 8px 0 0;margin:0;background:url(img/bg_home_n.gif) no-repeat}#nav ul li a.home:active,#nav ul li a.home:hover{background:url(img/bg_home_d.gif) no-repeat}#nav #currentpageHome a{background:url(img/bg_home_d.gif) no-repeat}#nav ul li a.faqs,#nav ul li a.faqs:visited{float:left;width:87px;height:34px;padding:0 8px 0 0;margin:0;background:url(img/bg_faqs_n.gif) no-repeat}#nav ul li a.faqs:active,#nav ul li a.faqs:hover{background:url(img/bg_faqs_d.gif) no-repeat}#nav #currentpageFAQs a{background:url(img/bg_faqs_d.gif) no-repeat}#nav ul li a.contact,#nav ul li a.contact:visited{float:left;width:123px;height:34px;padding:0 8px 0 0;margin:0;background:url(img/bg_contact_n.gif) no-repeat}#nav ul li a.contact:active,#nav ul li a.contact:hover{background:url(img/bg_contact_d.gif) no-repeat}#nav #currentpageContact a{background:url(img/bg_contact_d.gif) no-repeat}#onoffoff{display:none}#onoffctrls{margin:8px 0 5px 0}#example{display:none;margin:5px 0;padding:10px 10px 10px 10px;width:400px;background-color:#f0f0f0}#lWell{float:left;width:545px;margin:25px 0;padding:0 35px 0 0;border-right:1px dotted #333}#rWell{float:left;margin:25px 0;padding:0 0 0 60px}#results{float:left}#disclaim{font-size:11px;color:#999;margin-top:15px}#bottomAd{padding:0;margin:40px 0 0 0}textarea{width:100%;height:310px;border:2px solid #d50065;background-color:#f0f0f0}input{padding:15px 0 0 0}ul{padding:0;margin:0;list-style:none}ul li{padding:0 0 8px 0;margin:0}ul#A{padding:0;margin:0;list-style:none}ul#A li{padding:0 0 15px 0;margin:0}ul#A li.last{padding:0;margin:0}#bottomAd{width:730px;margin-left:auto;margin-right:auto}</style>
+<script type="text/javascript">
+function doit() {
+var txt = document.getElementById('masterlist').value
+txt = txt.replace(new RegExp( ">", "g" ), "&gt;");
+txt = txt.replace(new RegExp( "<", "g" ), "&lt;");
+var masterarray = txt.split('\n');
+var itemsInArray = masterarray.length;
+var dedupe = new Array();
+i = 0;
+var editedArray = new Array();
+while (i < itemsInArray) {
+masterarray[i]=masterarray[i].replace(/\s+$/, '');
+masterarray[i]=masterarray[i].replace(new RegExp( "\t", "g" ), '    ') 
+if (!(document.getElementById('kpblanks').checked)) {
+masterarray[i]=masterarray[i].replace(/^\s+/, '');
+}
+else {
+if (masterarray[i].match(/^ +/)) {
+var spc = masterarray[i].match(/^ +/);
+spc[0] = spc[0].replace(/ /g, ' ');   
+masterarray[i]=masterarray[i].replace(/^\s+/, spc[0]);
+}
+}
+
+if (document.getElementById('caps').checked) {
+var ulc = masterarray[i].toLowerCase();
+}
+else {
+var ulc = masterarray[i];
+}
+editedArray[ulc] = ulc;
+dedupe[ulc]="0";
+i++;
+}
+i = 0;
+var uniques = new Array();
+for (key in dedupe) {
+if (editedArray[key] != '') {
+uniques.push(editedArray[key]);
+}
+dedupe[key]="dontprint";
+i++;
+}
+if (document.getElementById('sort').checked) {
+uniques.sort(function(x,y){
+var a = String(x).toUpperCase(); 
+var b = String(y).toUpperCase(); 
+if (a > b) 
+return 1 
+if (a < b) 
+return -1 
+return 0; 
+});
+}
+var ulen = uniques.length;
+var thelist = uniques.join("\n");
+var rmvd = itemsInArray - ulen;
+document.getElementById('removed').innerHTML=itemsInArray + ' original lines, ' + rmvd  + ' removed, ' + ulen + ' remaining.';  
+document.getElementById('output').value=thelist;
+document.getElementById('output').style.display="block";
+window.location = "#startresults";
+}
+
+function onoff(x) {
+if (x == 'on') {
+document.getElementById('onoffon').style.display="none";
+document.getElementById('onoffoff').style.display="block";
+document.getElementById('example').style.display="block";
+}
+else if (x == 'off') {
+document.getElementById('onoffoff').style.display="none";
+document.getElementById('onoffon').style.display="block";
+document.getElementById('example').style.display="none";
+}
+}
+</script>
+</head>
+<body><div id="container">
+<div style="margin-bottom:20px;margin-top:20px">
+<h1><a href="/">ᴛᴜʀᴋ ᴘᴏʀᴛᴀʟ ɢʀᴜᴘ</a></h1>
+<h4>URL YAPİSTİR VE KAYDET MÜKERRER SİLME İŞLEMİ</h4>
+<textarea name="masterlist" id="masterlist" autofocus autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea><br />
+<p><label><input type="checkbox" name="caps" id="caps" value="">KÜÇÜK HARFE ÇEVİR</label><br /><label><input type="checkbox" name="kpblanks" id="kpblanks" value="">SATİR BAŞINDA BOSLUK BIRAK</label><br /><label><input type="checkbox" name="sort" id="sort" value="">SONUÇLARI SIRALA</label></p>
+<input type="submit" class="button" alt="Submit" title="kaydet" value="KAYDET" onclick="doit()" />
+<div id="disclaim">ᴛᴜʀᴋ ᴘᴏʀᴛᴀʟ ɢʀᴜᴘ</div>
+<a name="startresults"></a>
+<div><b><p name="removed" id="removed"></p></b></div>
+<textarea name="output" id="output" style="display:none" onclick="this.focus();this.select()" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea>
+</div>
+
+<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit?t52.6;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,150))+";"+Math.random();</script></body>
+</html>
+

@@ -1,1 +1,0 @@
-# turkportalgrup.github.io

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<style type="text/css" media="all">
+    @import url("/style/reset.css");
+    @import url("/style/fonts-min.css");
+    @import url("/style/menu.css");
+    @import url("/style/default.css");
+</style>
+<script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="/js/jquery.form-2.43.js"></script>
+<script type="text/javascript" src="/js/global.js"></script>
+<script type="text/javascript" src="/js/portscan.js"></script>
+
+</head>
+</script>
+    </div>
+    <div id="main-contents">
+        <div class="left"><h1>Network Port Checker & Scanner Tool</h1></div>
+        <div class="right">
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ilnli"></script>
+<!-- AddThis Button END -->
+</div>
+        <div style="clear: both;"></div>
+        <div id="portscan-container">
+            <form id="portscan" action="scripts/getPortsInfo.php" method="post">
+                <div class="input-area">
+                    <div class="left"><input type="text" id="remoteHost" name="remoteHost" class="input-box" value="176.237.0.94"></div>
+                    <div class="left"><label>Start Port:</label><input type="text" name="start_port" size="4" class="input-box-port" value="80"></div>
+                    <div class="left"><label>End Port:</label><input type="text" name="end_port" size="4" class="input-box-port" value="88"></div>
+                    <div class="left"><input type="submit" value="Scan" class="input-button"></div>
+                    <div class="left" id="portscan-status" class="status-info"></div>
+                    <div style="clear: both;"></div>
+                    <div class="portscan-type"><input type="radio" id="normal-scan" value="Yes" name="normalScan" class="port-scan-radio" checked><label for="normal-scan">Normal</label></div>
+                    <div class="portscan-type"><input type="radio" id="advance-scan" value="No" name="normalScan" class="port-scan-radio"><label for="advance-scan">Advance</label></div>
+                    <div style="clear: both;"></div>
+                </div>
+                <div id="portscan-advance">
+                    <div id="portscan-scanoptions">
+                        <div id="portscan-label">Scan Type:</div>
+                        <div id="portscan-scanoption"><input type="radio" value="connect" id="connect" name="scan_type" checked><label for="connect">connect()</label></div>
+                        <div id="portscan-scanoption"><input type="radio" value="syn" id="syn" name="scan_type"><label for="syn">SYN Stealth</label></div>
+                        <div id="portscan-scanoption"><input type="radio" value="null" id="null" name="scan_type"><label for="null">NULL Stealth</label></div>
+                        <div id="portscan-scanoption"><input type="radio" value="fin" id="fin" name="scan_type"><label for="fin">FIN Stealth</label></div>
+                        <div id="portscan-scanoption"><input type="radio" value="xmas" id="xmas" name="scan_type"><label for="xmas">XMAS Scan</label></div>
+                        <div id="portscan-scanoption"><input type="radio" value="ack" id="ack" name="scan_type"><label for="ack">ACK Scan</label></div>
+                        <div id="portscan-scanoption"><input type="radio" value="window" id="window" name="scan_type"><label for="window">Window Scan</label></div>
+                    </div>
+                    <div id="portscan-generaloptions">
+                        <div id="portscan-label">Ping Type:</div>
+                        <div id="portscan-scanoption"><input type="radio" id="tcp_icmp" value="tcp_icmp" id="tcp_icmp" name="ping_type" checked><label for="tcp_icmp">TCP & ICMP</label></div>
+                        <div id="portscan-scanoption"><input type="radio" id="icmp" value="icmp" name="ping_type"><label for="icmp">ICMP</label></div>
+                        <div id="portscan-scanoption"><input type="radio" id="tcp" value="tcp" name="ping_type"><label for="tcp">TCP</label></div>
+                        <div id="portscan-scanoption"><input type="radio" id="none" value="none" name="ping_type" checked><label for="none">Don't Ping</label></div>
+                        <div style="clear: both;"></div>
+                        <div id="portscan-label">General Options:</div>
+                        <!-- <div id="portscan-scanoption"><input type="checkbox" id="fast_scan" name="fast_scan"><label for="fast_scan">Fast Scan</label></div> -->
+                        <div id="portscan-scanoption"><input type="checkbox" id="udp_scan" name="udp_scan" ><label for="udp_scan">UDP Scan</label></div>
+                        <!-- <div id="portscan-scanoption"><input type="checkbox" id="rpc_scan" name="rpc_scan" ><label for="rpc_scan">RPC Scan</label></div> -->
+                        <div id="portscan-scanoption"><input type="checkbox" id="os_detect" name="os_detect"><label for="os_detect">Detect OS</label></div>
+                        <div id="portscan-scanoption"><input type="checkbox" id="fragmentation" name="fragmentation"><label for="fragmentation">Fragment Packets</label></div>
+                    </div>
+                </div>
+            </form>
+            <div id="portscan-info"></div>
+        </div>
+        </div>
+    </div>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4009598-8']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+</body>
+</html>
+
+
